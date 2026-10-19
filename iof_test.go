@@ -62,6 +62,9 @@ func statusOf(s iofxml.ResultStatus) dm.Status {
 		return dm.StatusDNS
 	case iofxml.StatusCancelled:
 		return dm.StatusCancelled
+	case iofxml.StatusFinished, iofxml.StatusActive, iofxml.StatusInactive,
+		iofxml.StatusMoved, iofxml.StatusMovedUp, iofxml.StatusDidNotEnter:
+		return dm.StatusRunning
 	}
 	return dm.StatusRunning
 }

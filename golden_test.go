@@ -11,10 +11,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/MetsaApp/iofxml"
 	"gopkg.in/yaml.v3"
 
 	dm "github.com/MetsaApp/divisionsmatch"
-	"github.com/MetsaApp/iofxml"
 )
 
 // A golden race is a real competition with its official result: a folder
