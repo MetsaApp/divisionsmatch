@@ -1,0 +1,537 @@
+side 1                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Stilling 2. division, Østkredsen
+--------------------------------
+
+| Placering |     Klubnavn     | 1. runde | 1. runde | Stilling | Stilling | kommentar |
+|           |                  | LøbsPoint | MatchPoint | LøbsPoint | MatchPoint |           |
+----------------------------------------------------------------------------------------------
+|     1     | OK ØST Birkerød | 602 - 421 |      6      | 602 - 421 |     6      |           |
+|     2     | Allerød OK       | 519 - 473 |     4      | 519 - 473 |     4      |           |
+|     3     | Holbæk OK        | 436 - 558 |     2      | 436 - 558 |     2      |           |
+|     4     | Tisvilde Hegn OK | 425 - 530 |     0      | 425 - 530 |     0      |           |
+
+                         ---ooo---
+
+
+Divisionsmatch (Jonstrup Vang + Lille Hareskov, 2026-03-22)
+-----------------------------------------------------------
+                                               score      point
+OK ØST Birkerød                              602 -   421      6
+Allerød OK                                   519 -   473      4
+Holbæk OK                                    436 -   558      2
+Tisvilde Hegn OK                             425 -   530      0
+
+1 : Allerød OK - Holbæk OK               :   185 -   143
+2 : Allerød OK - OK ØST Birkerød         :   155 -   194
+3 : Allerød OK - Tisvilde Hegn OK        :   179 -   136
+4 : Holbæk OK - OK ØST Birkerød          :   134 -   216
+5 : Holbæk OK - Tisvilde Hegn OK         :   159 -   157
+6 : OK ØST Birkerød - Tisvilde Hegn OK   :   192 -   132
+
+
+          m1      m2      m3      m4      m5      m6
+        ------- ------- ------- ------- ------- -------
+Begynder 1-1      1-3     1-1     1-3     1-1     3-1
+D10       0-3     0-1     0-0     3-1     3-0     1-0
+D12       4-3     4-3     4-0     4-3     4-0     4-0
+D12B      0-0     0-0     0-0     0-0     0-0     0-0
+D14       0-7     0-0     0-0     7-0     7-0     0-0
+D14B      0-0     0-4     0-0     0-4     0-0     4-0
+D16       4-0     4-0     4-0     0-0     0-0     0-0
+D18       0-4     0-0     0-0     4-0     4-0     0-0
+D20       0-0     0-4     0-4     0-4     0-4     3-4
+D20B      2-0     2-0     2-2     0-0     0-2     0-2
+D21      13-13   12-18   12-14   10-20   11-15   15-15
+side 2                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+D21B      2-4     2-4     2-4     3-4     3-4     4-3
+D40      14-7    10-11   15-3     6-15   13-5    15-3
+D45B      4-5     5-3     6-0     5-3     6-0     4-0
+D50      12-9    13-5    14-4    12-6    13-5     6-5
+D60      15-6     9-11   12-8     9-11   11-9     9-9
+D70       0-6     0-15    0-11    3-15    4-11   15-5
+D80       0-0     0-4     0-4     0-4     0-4     3-4
+D-Let     4-3     4-4     4-4     2-6     2-6     4-5
+H10       2-1     2-3     2-2     1-3     1-2     3-2
+H12       4-6     7-0     7-0     7-0     7-0     0-0
+H12B      0-0     0-3     0-0     0-3     0-0     3-0
+H14       4-0     3-6     4-0     0-7     0-0     7-0
+H14B      0-0     0-0     0-0     0-0     0-0     0-0
+H16       0-4     0-0     0-0     4-0     4-0     0-0
+H18       4-3     4-0     4-3     4-0     3-4     0-4
+H20       7-0     6-3     7-0     0-4     0-0     4-0
+H20B      2-0     2-2     2-3     0-2     0-4     2-3
+H21      22-14   16-20   17-18   12-24   14-21   16-19
+H21B      3-5     3-5     4-3     4-5     5-3     5-3
+H40      11-10   10-11   15-6     9-12   12-9    14-7
+H45B      4-3     3-5     4-4     3-5     3-5     5-4
+H50      15-6    12-9    14-4     7-14   12-6    13-5
+H60      12-9     6-15    9-12    6-15    8-13   12-9
+H70      13-5     9-11    6-15    4-11    3-15    7-13
+H80       3-4     3-6     4-3     3-6     4-3     6-3
+H-Let     4-2     3-5     4-4     1-6     1-6     5-4
+Ialt:   185-143 155-194 179-136 134-216 159-157 192-132
+
+Begynder - [1, 1, 1, 1, 1, 1]
+-----------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 001 Holbæk OK       Beg    00:14:38    1              1    1
+2 Runner 005 Tisvilde Hegn O Beg    00:29:54              1         1    1
+3 Runner 007 OK ØST Birkerød Beg    00:36:41         1         1         1
+4 Runner 009 Allerød OK        Beg    00:44:10    1    1    1
+5 Runner 014 OK ØST Birkerød Beg    01:01:19         1         1         1
+6 Runner 016 OK ØST Birkerød Beg    01:02:23         1         1         1
+   Runner 018 Holbæk OK       Beg    Ej start
+   Runner 019 Tisvilde Hegn O Beg    Ej start
+   Runner 020 Holbæk OK       Beg    Ej start
+
+
+D10 - [1, 1, 1, 1, 1, 1]
+------------------------
+side 3                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 049 Holbæk OK       D10    00:35:57    1               1    1
+2 Runner 050 Holbæk OK       D10    00:36:59    1               1    1
+3 Runner 052 OK ØST Birkerød D10    00:38:14          1         1         1
+4 Runner 053 Holbæk OK       D10    00:38:39     1              1    1
+
+
+D12 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 059 Allerød OK      D12    00:32:46    4     4    4
+2 Runner 061 Holbæk OK       D12    00:38:46    3               4    4
+3 Runner 063 OK ØST Birkerød D12    00:59:36          3         3         4
+
+
+D14 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 071 Holbæk OK       D14    00:32:26    4               4    4
+2 Runner 075 Holbæk OK       D14    00:51:27    3               3    3
+
+
+D14B - [2, 2, 1, 1]
+-------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 079 OK ØST Birkerød D14B   00:35:09          2         2         2
+2 Runner 081 OK ØST Birkerød D14B   01:28:36          2         2         2
+
+
+D16 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 089 Allerød OK      D16    00:56:28    4     4    4
+
+
+D18 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 093 Holbæk OK       D18    01:29:36    4               4    4
+
+
+D20 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+side 4                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+1 Runner 096 Tisvilde Hegn O D20    00:58:08              4         4    4
+2 Runner 098 OK ØST Birkerød D20    01:13:05         4         4         3
+    Runner 099 Holbæk OK       D20      Fejlst
+
+
+D20B - [2, 2, 1, 1]
+-------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 101 Allerød OK        D20B   00:55:03     2    2    2
+2 Runner 103 Tisvilde Hegn O D20B   02:26:40               2         2    2
+   Runner 105 OK ØST Birkerød D20B   Ej start
+
+
+D21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 106 Tisvilde Hegn O D21    00:42:38               8         8    8
+2 Runner 107 Allerød OK      D21    00:46:20     8    8    7
+3 Runner 109 Tisvilde Hegn O D21      00:55:00               6         7    7
+4 Runner 111 OK ØST Birkerød D21    00:59:01          7         8         6
+5 Runner 113 OK ØST Birkerød D21    01:03:11          6         7         5
+6 Runner 114 Holbæk OK         D21    01:03:37     7              6    6
+7 Runner 123 OK ØST Birkerød D21     01:26:57          5         5         4
+8 Runner 125 Holbæk OK         D21    01:49:30     6              4    5
+9 Runner 126 Allerød OK      D21    02:17:10     5    4    5
+
+
+D21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 128 OK ØST Birkerød D21B   00:36:24         2         2         2
+2 Runner 132 Allerød OK      D21B   00:46:22    2    2    2
+3 Runner 133 Tisvilde Hegn O D21B   00:46:45              2         2    2
+4 Runner 137 Holbæk OK       D21B   00:55:09    2              2    2
+5 Runner 139 OK ØST Birkerød D21B   00:57:44         2         2         2
+6 Runner 142 Tisvilde Hegn O D21B   01:03:59              2         2    1
+7 Runner 144 Holbæk OK       D21B   01:49:05    2              1    1
+
+
+D40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 148 Allerød OK      D40    00:50:33      6    6    6
+2 Runner 151 OK ØST Birkerød D40    00:58:22           5         6         6
+side 5                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+3 Runner 153 OK ØST Birkerød D40     00:58:45         4         5         5
+4 Runner 157 Allerød OK      D40     01:12:36    5    3    5
+5 Runner 158 OK ØST Birkerød D40     01:13:57         2         4         4
+6 Runner 159 Holbæk OK       D40     01:16:23    4              3    6
+7 Runner 161 Allerød OK      D40     01:22:57    3    1    4
+8 Runner 163 Tisvilde Hegn O D40     01:25:50              3         5    3
+9 Runner 164 Holbæk OK        D40     01:32:25    2              2    4
+10 Runner 166 Holbæk OK       D40     01:39:24    1              1    3
+
+
+D45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 169 Allerød OK      D45B   00:47:59     2    2    2
+2 Runner 173 Holbæk OK       D45B   00:53:50     2              2    2
+3 Runner 174 Holbæk OK       D45B   00:54:25     2              2    2
+4 Runner 180 Allerød OK      D45B   00:59:29     1    2    2
+5 Runner 183 OK ØST Birkerød D45B   01:02:36          2         2         2
+6 Runner 184 Allerød OK      D45B   01:06:20     1    1    2
+7 Runner 185 Holbæk OK        D45B   01:06:46     1              1    2
+8 Runner 187 OK ØST Birkerød D45B   01:08:34          1         1         2
+
+
+D50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 192 Allerød OK      D50    00:59:42     6    6    6
+2 Runner 194 OK ØST Birkerød D50    01:01:52          5         6         6
+3 Runner 197 Allerød OK      D50    01:04:14     5    4    5
+4 Runner 200 Holbæk OK       D50    01:11:00     4              5    6
+5 Runner 202 Tisvilde Hegn O D50    01:12:02               4         5    5
+6 Runner 204 Holbæk OK       D50    01:14:05     3              4    4
+7 Runner 205 Holbæk OK       D50    01:14:37     2              3    3
+8 Runner 209 Allerød OK      D50    01:48:18     1    3    3
+   Runner 211 Tisvilde Hegn O D50    Ej start
+
+
+D60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 214 Tisvilde Hegn O D60    00:35:23               6         6    6
+2 Runner 215 OK ØST Birkerød D60    00:35:53          6         6         5
+3 Runner 217 OK ØST Birkerød D60    00:37:30          5         5         4
+4 Runner 219 Allerød OK      D60    00:39:12     6    4    5
+side 6                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+5 Runner 220 Allerød OK      D60    00:40:33    5    3    4
+6 Runner 222 Allerød OK      D60    00:42:00    4    2    3
+7 Runner 224 Holbæk OK       D60    00:48:48    3              4    5
+8 Runner 226 Holbæk OK       D60    00:57:18    2              3    4
+9 Runner 228 Tisvilde Hegn O D60    01:01:53              2         3    3
+10 Runner 229 Holbæk OK       D60    01:17:45    1              2    2
+
+
+D70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 233 OK ØST Birkerød D70    00:34:09          6         6         6
+2 Runner 234 OK ØST Birkerød D70    00:36:28          5         5         5
+3 Runner 235 OK ØST Birkerød D70    00:38:26          4         4         4
+4 Runner 239 Tisvilde Hegn O D70    00:46:24               6         6    3
+5 Runner 240 Tisvilde Hegn O D70    00:47:09               5         5    2
+6 Runner 243 Holbæk OK       D70    01:06:51     6              3    4
+
+
+D80 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 248 Tisvilde Hegn O D80    00:53:07              4         4    4
+2 Runner 249 OK ØST Birkerød D80    01:03:26         4         4         3
+
+
+D-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 021 Allerød OK      D-Let 00:21:23     2    2    2
+2 Runner 022 Allerød OK      D-Let 00:30:28     2    2    2
+3 Runner 024 Tisvilde Hegn O D-Let 00:35:00               2         2    2
+4 Runner 026 OK ØST Birkerød D-Let 00:37:36          2         2         2
+5 Runner 030 Tisvilde Hegn O D-Let 00:44:40               1         2    2
+6 Runner 032 OK ØST Birkerød D-Let 00:47:27           1         2         1
+7 Runner 036 OK ØST Birkerød D-Let 00:54:19          1         2         1
+8 Runner 037 Tisvilde Hegn O D-Let 01:02:09               1         2    1
+9 Runner 038 Holbæk OK       D-Let 01:02:49     2              1    1
+10 Runner 040 Holbæk OK       D-Let 01:17:45     1              1    1
+   Runner 042 OK ØST Birkerød D-Let Ej start
+
+
+H10 - [1, 1, 1, 1, 1, 1]
+------------------------
+side 7                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 276 Allerød OK      H10    00:22:40    1     1    1
+2 Runner 277 OK ØST Birkerød H10    00:23:00          1         1         1
+3 Runner 280 Tisvilde Hegn O H10    00:28:40               1         1    1
+4 Runner 285 Tisvilde Hegn O H10    00:34:09               1         1    1
+5 Runner 286 Allerød OK      H10    00:42:23     1    1    1
+6 Runner 287 OK ØST Birkerød H10    00:43:24          1         1         1
+7 Runner 291 Holbæk OK       H10    01:04:05     1              1    1
+8 Runner 292 OK ØST Birkerød H10     01:35:01          1         1         1
+   Runner 293 Holbæk OK       H10    Ej start
+
+
+H12 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 294 Holbæk OK       H12    00:24:55    4               4    4
+2 Runner 299 Allerød OK      H12    00:32:23    3     4    4
+3 Runner 301 Holbæk OK       H12    00:35:55    2               3    3
+4 Runner 304 Allerød OK      H12    00:40:57    1     3    3
+   Runner 305 OK ØST Birkerød H12      Fejlst
+
+
+H12B - [1, 1, 1, 1, 1, 1]
+-------------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 309 OK ØST Birkerød H12B   00:23:44          1         1         1
+2 Runner 310 OK ØST Birkerød H12B   00:29:09          1         1         1
+3 Runner 312 OK ØST Birkerød H12B   00:31:14          1         1         1
+   Runner 315 Holbæk OK       H12B   Ej start
+   Runner 316 Holbæk OK       H12B   Ej start
+
+
+H14 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 317 OK ØST Birkerød H14    00:44:08          4         4         4
+2 Runner 321 Allerød OK      H14    01:08:52     4    3    4
+3 Runner 324 OK ØST Birkerød H14    01:38:33          2         3         3
+
+
+H14B - [2, 2, 1, 1]
+-------------------
+pl navn                     klub          klasse    tid     m1    m2   m3   m4   m5   m6
+   Runner 329 Holbæk OK     H14B     Fejlst
+side 8                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+   Runner 328 Holbæk OK       H14B     Fejlst
+
+
+H16 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 334 Holbæk OK       H16    00:44:59    4              4    4
+   Runner 339 Tisvilde Hegn O H16    Ej start
+
+
+H18 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 340 Allerød OK      H18    00:47:08    4    4    4
+2 Runner 341 Tisvilde Hegn O H18    01:11:49              3         4    4
+3 Runner 343 Holbæk OK       H18    02:21:45    3              4    3
+
+
+H20 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 345 Allerød OK      H20    00:52:58    4    4    4
+2 Runner 348 OK ØST Birkerød H20    01:14:27         3         4         4
+3 Runner 350 Allerød OK      H20    01:22:55    3    2    3
+
+
+H20B - [2, 2, 1, 1]
+-------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 353 Tisvilde Hegn O H20B   00:53:40               2         2    2
+2 Runner 354 Allerød OK      H20B   00:55:06     2    2    2
+3 Runner 355 OK ØST Birkerød H20B   01:00:29          2         2         2
+4 Runner 357 Tisvilde Hegn O H20B   01:20:46               1         2    1
+
+
+H21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 359 Allerød OK      H21    00:42:49    8    8    8
+2 Runner 360 Tisvilde Hegn O H21    00:43:07              7         8    8
+3 Runner 362 OK ØST Birkerød H21    00:46:34         7         8         7
+4 Runner 364 Tisvilde Hegn O H21    00:49:29              6         7    6
+5 Runner 368 Tisvilde Hegn O H21    00:51:56              5         6    5
+6 Runner 371 OK ØST Birkerød H21    00:55:50         6         7         4
+side 9                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+7 Runner 373 Allerød OK      H21     00:58:42    7    5    4
+8 Runner 374 Holbæk OK       H21     00:58:57    6              6    5
+9 Runner 378 OK ØST Birkerød H21      01:03:07         4         5         3
+10 Runner 382 OK ØST Birkerød H21     01:13:47         3         4         2
+11 Runner 384 Holbæk OK       H21     01:17:43    5              3    4
+12 Runner 385 Allerød OK      H21     01:20:01    4    2    3
+13 Runner 386 Allerød OK      H21     01:22:07    3    1    2
+14 Runner 388 Holbæk OK       H21     01:24:34    2              2    3
+15 Runner 389 Holbæk OK       H21     01:42:50    1              1    2
+16 Runner 390 OK ØST Birkerød H21     01:48:16
+   Runner 392 Allerød OK      H21     Ej start
+
+
+H21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 398 Allerød OK      H21B   00:42:23    2    2    2
+2 Runner 404 OK ØST Birkerød H21B   00:49:58         2         2         2
+3 Runner 405 OK ØST Birkerød H21B   00:50:50         2         2         2
+4 Runner 407 Holbæk OK       H21B   00:57:45    2              2    2
+5 Runner 410 Holbæk OK       H21B   01:01:22    2              1    2
+6 Runner 411 Tisvilde Hegn O H21B   01:03:15              2         2    2
+7 Runner 412 Holbæk OK       H21B   01:03:48    1              1    1
+8 Runner 413 Allerød OK      H21B   01:05:51    1    1    2
+9 Runner 416 OK ØST Birkerød H21B   01:12:26         1         1         1
+10 Runner 417 Tisvilde Hegn O H21B   01:21:35              1         1    1
+11 Runner 418 Holbæk OK       H21B   01:23:03
+
+
+H40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 423 OK ØST Birkerød H40    00:46:35          6         6         6
+2 Runner 426 Allerød OK        H40    00:48:05     6    5    6
+3 Runner 430 Holbæk OK       H40    00:50:33     5              5    6
+4 Runner 432 OK ØST Birkerød H40     00:53:27          4         4         5
+5 Runner 433 Holbæk OK        H40    00:53:49     4              3    5
+6 Runner 434 Allerød OK      H40    00:56:08     3    3    5
+7 Runner 436 Allerød OK      H40    00:58:13     2    2    4
+8 Runner 437 Tisvilde Hegn O H40    01:02:03               3         4    4
+9 Runner 438 OK ØST Birkerød H40    01:02:45          1         2         3
+10 Runner 440 Tisvilde Hegn O H40    01:04:07               2         3    2
+11 Runner 441 OK ØST Birkerød H40    01:04:27
+12 Runner 445 Allerød OK      H40    01:13:42
+side 10                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+13 Runner 446 Tisvilde Hegn O H40    01:14:08              1         2    1
+14 Runner 448 Holbæk OK       H40    01:22:12    1              1    1
+15 Runner 449 Holbæk OK       H40    01:44:38
+
+
+H45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 453 Tisvilde Hegn O H45B   00:45:08               2         2    2
+2 Runner 454 Allerød OK      H45B   00:46:07     2    2    2
+3 Runner 455 OK ØST Birkerød H45B   00:46:25          2         2         2
+4 Runner 459 OK ØST Birkerød H45B   00:54:31          2         2         2
+5 Runner 461 Holbæk OK       H45B   00:55:56     2              2    2
+6 Runner 462 OK ØST Birkerød H45B   00:56:39          1         1         1
+7 Runner 464 Allerød OK      H45B   00:59:13     2    1    2
+8 Runner 465 Tisvilde Hegn O H45B   00:59:49               1         2    1
+9 Runner 467 Tisvilde Hegn O H45B   01:04:27               1         1    1
+10 Runner 472 Holbæk OK       H45B   01:12:41     1              1    1
+   Runner 477 Allerød OK      H45B   Ej start
+   Runner 478 Holbæk OK       H45B   Ej start
+   Runner 475 Holbæk OK       H45B     Fejlst
+
+
+H50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 481 OK ØST Birkerød H50    00:40:51         6         6         6
+2 Runner 482 Allerød OK      H50    00:40:54    6    5    6
+3 Runner 483 Allerød OK      H50    00:41:29    5    4    5
+4 Runner 485 Tisvilde Hegn O H50    00:41:43              4         6    5
+5 Runner 488 Allerød OK       H50    00:46:26    4    3    3
+6 Runner 493 Allerød OK      H50    00:49:45
+7 Runner 495 OK ØST Birkerød H50    00:53:03         2         5         4
+8 Runner 496 Allerød OK      H50    00:53:46
+9 Runner 498 Holbæk OK       H50    00:54:06    3              4    5
+10 Runner 500 OK ØST Birkerød H50    00:55:41         1         3         3
+11 Runner 501 OK ØST Birkerød H50    00:56:11
+12 Runner 502 Holbæk OK       H50    00:56:31    2              2    4
+13 Runner 511 Holbæk OK       H50    01:05:08    1              1    3
+14 Runner 512 Holbæk OK       H50    01:05:19
+   Runner 518 Tisvilde Hegn O H50    Ej start
+   Runner 519 Tisvilde Hegn O H50    Ej start
+side 11                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+H60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 520 Tisvilde Hegn O H60    00:39:27               6         6    6
+2 Runner 523 OK ØST Birkerød H60    00:40:41          6         6         5
+3 Runner 526 OK ØST Birkerød H60    00:43:22          5         5         4
+4 Runner 529 OK ØST Birkerød H60    00:44:42          4         4         3
+5 Runner 535 Allerød OK      H60    00:49:34     6    3    5
+6 Runner 536 Tisvilde Hegn O H60      00:50:13               4         5    2
+7 Runner 542 OK ØST Birkerød H60     00:56:02
+8 Runner 547 Allerød OK      H60    00:58:00     5    2    3
+9 Runner 549 Holbæk OK       H60    01:01:44     4              3    4
+10 Runner 550 OK ØST Birkerød H60    01:02:29
+11 Runner 551 Holbæk OK       H60    01:04:49     3              2    3
+12 Runner 558 Tisvilde Hegn O H60    01:16:32               2         2    1
+13 Runner 560 Holbæk OK       H60    01:17:22     2              1    1
+14 Runner 561 Holbæk OK       H60    01:17:37
+15 Runner 563 Allerød OK      H60    01:22:28     1    1    1
+
+
+H70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 567 Tisvilde Hegn O H70    00:30:02              6         6    6
+2 Runner 568 Tisvilde Hegn O H70    00:34:01              5         5    5
+3 Runner 570 OK ØST Birkerød H70    00:37:40         6         6         4
+4 Runner 574 OK ØST Birkerød H70    00:38:46         5         5         3
+5 Runner 580 Tisvilde Hegn O H70    00:44:06              4         4    2
+6 Runner 582 Allerød OK      H70    00:46:41    6    4    3
+7 Runner 585 Holbæk OK       H70    00:49:09    5              4    3
+8 Runner 586 Tisvilde Hegn O H70    00:50:28
+9 Runner 589 Allerød OK      H70    00:54:41    4    3    2
+10 Runner 590 Allerød OK      H70    01:00:46    3    2    1
+   Runner 595 Holbæk OK       H70    Ej start
+   Runner 596 Holbæk OK       H70    Ej start
+
+
+H80 - [4, 3, 2, 1]
+------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 604 OK ØST Birkerød H80    00:45:20         4         4         4
+2 Runner 606 Holbæk OK       H80    00:51:03    4              3    4
+3 Runner 607 Allerød OK      H80    00:51:53    3    3    4
+4 Runner 611 Tisvilde Hegn O H80    01:02:01              3         3    3
+side 12                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:42:33
+-------------------------------------------------------------------------------------------------------------------------
+
+5 Runner 612 OK ØST Birkerød H80     01:09:28         2         2         2
+    Runner 621 Tisvilde Hegn O H80     Ej start
+    Runner 617 Tisvilde Hegn O H80       Fejlst
+
+
+H-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 251 Allerød OK      H-Let 00:17:27     2    2    2
+2 Runner 253 OK ØST Birkerød H-Let 00:23:00          2         2         2
+3 Runner 258 OK ØST Birkerød H-Let 00:29:38          2         2         2
+4 Runner 262 Allerød OK      H-Let 00:37:49     2    1    2
+5 Runner 263 Tisvilde Hegn O H-Let 00:43:09               2         2    2
+6 Runner 264 Tisvilde Hegn O H-Let 00:46:00               1         2    1
+7 Runner 266 OK ØST Birkerød H-Let 00:55:39           1         2         1
+8 Runner 267 OK ØST Birkerød H-Let 01:02:24
+9 Runner 269 Tisvilde Hegn O H-Let 01:08:00               1         2    1
+10 Runner 270 Holbæk OK       H-Let 01:11:20     2              1    1
+

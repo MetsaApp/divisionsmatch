@@ -310,6 +310,12 @@ func (rb *Rulebook) standing(d Division, matches []Match, groups []Group) []Club
 	for _, club := range d.Clubs {
 		rows = append(rows, clubLine(club, slices.Contains(d.Absent, club), matches))
 	}
+	return rb.order(rows, matches, groups)
+}
+
+// order sorts club lines by match points, then separates the clubs level
+// on them with the rulebook's tie-breaks in its order.
+func (rb *Rulebook) order(rows []ClubStanding, matches []Match, groups []Group) []ClubStanding {
 	slices.SortStableFunc(rows, func(a, b ClubStanding) int { return cmp.Compare(b.MatchPoints, a.MatchPoints) })
 	out := make([]ClubStanding, 0, len(rows))
 	for i := 0; i < len(rows); {

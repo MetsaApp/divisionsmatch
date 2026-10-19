@@ -1,0 +1,662 @@
+side 1                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Stilling 1. division, Østkredsen
+--------------------------------
+
+| Placering |         Klubnavn         | 1. runde | 1. runde | Stilling | Stilling | kommentar |
+|           |                          | LøbsPoint | MatchPoint | LøbsPoint | MatchPoint |           |
+------------------------------------------------------------------------------------------------------
+|     1     | Søllerød OK              | 661 - 516 |     6      | 661 - 516 |     6      |           |
+|     2     | FIF Hillerød Orientering | 644 - 518 |     4      | 644 - 518 |     4      |           |
+|     3     | Farum Orienteringsklub   | 506 - 584 |     2      | 506 - 584 |     2      |           |
+|     4     | OK Sorø                  | 463 - 656 |     0      | 463 - 656 |     0      |           |
+
+                         ---ooo---
+
+
+Divisionsmatch (Jonstrup Vang + Lille Hareskov, 2026-03-22)
+-----------------------------------------------------------
+                                               score      point
+Søllerød OK                                  661 -   516      6
+FIF Hillerød Orientering                     644 -   518      4
+Farum Orienteringsklub                       506 -   584      2
+OK Sorø                                      463 -   656      0
+
+1 : Farum Orienteringsklub - FIF Hillerød Orientering :   158 -   210
+2 : Farum Orienteringsklub - OK Sorø                  :   183 -   162
+3 : Farum Orienteringsklub - Søllerød OK              :   165 -   212
+4 : FIF Hillerød Orientering - OK Sorø                :   231 -   153
+5 : FIF Hillerød Orientering - Søllerød OK            :   203 -   207
+6 : OK Sorø - Søllerød OK                             :   148 -   242
+
+
+          m1      m2      m3      m4      m5      m6
+        ------- ------- ------- ------- ------- -------
+Begynder 1-3      1-2     1-3     3-2     3-3     2-3
+D10       3-3     3-1     3-1     3-1     3-1     1-1
+D12       0-7     0-7     0-4     3-7     5-4     6-3
+D12B      2-2     2-0     2-1     2-0     2-1     0-1
+D14       0-4     0-7     0-0     4-5     4-0     7-0
+D14B      2-2     2-2     2-0     2-2     2-0     2-0
+D16       3-7     5-4     5-4     7-2     7-2     4-3
+D18       0-4     0-0     0-4     4-0     3-4     0-4
+D20       0-0     0-4     0-4     0-4     0-4     3-4
+D20B      0-2     0-2     0-0     2-2     2-0     2-0
+D21      14-19   14-12   14-19   23-10   16-20   11-22
+side 2                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+D21B      3-5     4-3     4-4     6-2     5-4     3-5
+D40      13-8    15-6    15-6    11-10   11-10   10-11
+D45B      3-5     4-2     3-5     5-2     5-4     2-5
+D50       7-13    8-12    7-13   14-7    12-9     8-13
+D60       5-6     5-10    5-13    5-10    5-13    7-13
+D70       5-13    6-0     5-10   15-0    11-9     0-11
+D80       0-4     0-0     0-7     4-0     3-6     0-7
+D-Let     4-3     4-4     4-4     3-5     3-5     4-5
+H10       3-3     3-3     3-3     3-3     3-3     3-3
+H12       5-5     5-5     5-4     6-4     6-3     6-3
+H12B      1-2     1-2     1-1     2-2     2-1     2-1
+H14       5-4     5-5     5-5     4-5     3-6     5-5
+H14B      0-2     0-0     0-0     2-0     2-0     0-0
+H16       7-2     7-2     6-4     3-4     2-7     2-7
+H18       0-0     0-0     0-4     0-0     0-4     0-4
+H20       0-0     0-4     0-7     0-4     0-7     2-7
+H20B      0-0     0-2     0-4     0-2     0-4     1-4
+H21      14-21   14-21   13-22   20-16   15-21   11-25
+H21B      4-5     5-3     4-5     5-3     4-5     3-5
+H40      13-8    12-9    11-10   11-10   10-11   10-11
+H45B      3-6     5-3     5-4     6-2     6-3     3-5
+H50      13-8    14-7    14-7    11-10   12-9    10-11
+H60      12-9    15-6    12-9    15-6    11-10    6-15
+H70       8-13   15-5    11-10   15-5    14-7     5-15
+H80       3-7     7-2     3-7     7-2     6-4     2-7
+H-Let     2-5     2-5     2-4     5-4     5-3     5-3
+Ialt:   158-210 183-162 165-212 231-153 203-207 148-242
+
+Begynder - [1, 1, 1, 1, 1, 1]
+-----------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 002 OK Sorø         Beg    00:24:47         1         1         1
+2 Runner 003 Farum Orienteri Beg     00:25:38    1    1    1
+3 Runner 004 Søllerød OK     Beg    00:28:30              1         1    1
+4 Runner 006 OK Sorø           Beg    00:32:26         1         1         1
+5 Runner 008 FIF Hillerød Or Beg    00:38:37    1              1    1
+6 Runner 010 Søllerød OK     Beg    00:46:50              1         1    1
+7 Runner 011 Søllerød OK     Beg    00:49:15              1         1    1
+8 Runner 012 Søllerød OK     Beg    00:49:46
+9 Runner 013 FIF Hillerød Or Beg    01:00:45    1              1    1
+10 Runner 015 FIF Hillerød Or Beg    01:01:48    1              1    1
+   Runner 017 Farum Orienteri Beg    Ej start
+side 3                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+D10 - [1, 1, 1, 1, 1, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 044 Farum Orienteri D10    00:21:46     1    1    1
+2 Runner 045 OK Sorø         D10    00:22:49          1         1         1
+3 Runner 046 FIF Hillerød Or D10    00:23:03     1              1    1
+4 Runner 047 Farum Orienteri D10    00:26:31     1    1    1
+5 Runner 048 Søllerød OK     D10    00:29:34               1         1    1
+6 Runner 051 Farum Orienteri D10    00:37:15     1    1    1
+7 Runner 054 FIF Hillerød Or D10    00:47:37     1              1    1
+8 Runner 055 FIF Hillerød Or D10    00:48:45     1              1    1
+
+
+D12 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 056 OK Sorø         D12    00:20:56          4         4         4
+2 Runner 057 Søllerød OK     D12    00:23:51               4         4    3
+3 Runner 058 OK Sorø         D12    00:26:53          3         3         2
+4 Runner 060 FIF Hillerød Or D12    00:38:39     4              2    3
+5 Runner 062 FIF Hillerød Or D12    00:42:30     3              1    2
+
+
+D12B - [1, 1, 1, 1, 1, 1]
+-------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 064 Søllerød OK     D12B   00:19:26              1         1    1
+2 Runner 065 FIF Hillerød Or D12B   00:34:47    1              1    1
+3 Runner 066 FIF Hillerød Or D12B     00:35:54    1              1    1
+4 Runner 067 Farum Orienteri D12B   00:38:01    1    1    1
+5 Runner 068 Farum Orienteri D12B   01:02:49    1    1    1
+   Runner 070 Søllerød OK     D12B     Fejlst
+   Runner 069 Søllerød OK     D12B     Fejlst
+
+
+D14 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 072 FIF Hillerød Or D14    00:37:10     4              4    4
+2 Runner 073 OK Sorø         D14    00:46:14          4         3         4
+3 Runner 074 OK Sorø         D14    00:48:23          3         2         3
+   Runner 076 FIF Hillerød Or D14      Fejlst
+side 4                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+D14B - [2, 2, 1, 1]
+-------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 077 Farum Orienteri D14B   00:28:03     2    2    2
+2 Runner 078 OK Sorø         D14B   00:30:53          2         2         2
+3 Runner 080 FIF Hillerød Or D14B   00:55:19     2              2    2
+   Runner 083 FIF Hillerød Or D14B   Ej start
+   Runner 084 Farum Orienteri D14B   Ej start
+   Runner 082 FIF Hillerød Or D14B     Fejlst
+
+
+D16 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 085 FIF Hillerød Or D16    00:46:18     4              4    4
+2 Runner 086 FIF Hillerød Or D16    00:51:51     3              3    3
+3 Runner 087 OK Sorø         D16    00:53:09          4         2         4
+4 Runner 088 Søllerød OK     D16    00:53:53               4         2    3
+5 Runner 090 Farum Orienteri D16    01:08:20     2    3    3
+6 Runner 091 Farum Orienteri D16    01:12:58     1    2    2
+
+
+D18 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 092 Søllerød OK     D18    01:01:10              4         4    4
+2 Runner 094 FIF Hillerød Or D18    01:38:57    4              4    3
+
+
+D20 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 095 Søllerød OK     D20    00:51:59              4         4    4
+2 Runner 097 OK Sorø         D20    01:11:00         4         4         3
+
+
+D20B - [2, 2, 1, 1]
+-------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 100 FIF Hillerød Or D20B    00:52:19    2              2    2
+2 Runner 102 OK Sorø          D20B   01:17:46         2         2         2
+   Runner 104 Farum Orienteri D20B     Fejlst
+side 5                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+D21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 108 Farum Orienteri D21    00:50:21    8    8    8
+2 Runner 110 FIF Hillerød Or D21    00:56:13    7              8    8
+3 Runner 112 OK Sorø         D21    01:00:07         7         7         8
+4 Runner 115 Søllerød OK       D21    01:06:18              7         7    7
+5 Runner 116 Farum Orienteri D21    01:06:38    6    6    6
+6 Runner 117 Søllerød OK     D21    01:07:28              5         6    6
+7 Runner 118 FIF Hillerød Or D21    01:08:25    5              6    5
+8 Runner 119 Søllerød OK     D21    01:09:45              4         4    5
+9 Runner 120 Søllerød OK     D21    01:12:22              3         3    4
+10 Runner 121 FIF Hillerød Or D21    01:22:23    4              5    2
+11 Runner 122 FIF Hillerød Or D21    01:25:36    3              4    1
+12 Runner 124 OK Sorø         D21    01:38:02         5         3         3
+   Runner 127 Farum Orienteri D21    Ej start
+
+
+D21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 129 FIF Hillerød Or D21B   00:36:56     2              2    2
+2 Runner 130 Farum Orienteri D21B   00:40:19     2    2    2
+3 Runner 131 Søllerød OK     D21B   00:42:08               2         2    2
+4 Runner 134 FIF Hillerød Or D21B   00:48:08     2              2    2
+5 Runner 135 FIF Hillerød Or D21B   00:50:27     1              2    1
+6 Runner 136 OK Sorø         D21B   00:54:30          2         1         2
+7 Runner 138 Farum Orienteri D21B   00:57:00     1    2    2
+8 Runner 140 Søllerød OK     D21B   00:57:45               1         1    2
+9 Runner 141 Søllerød OK      D21B   00:58:26               1         1    1
+10 Runner 143 OK Sorø         D21B   01:18:16          1         1         1
+
+
+D40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 145 Farum Orienteri D40    00:45:58     6    6    6
+2 Runner 146 FIF Hillerød Or D40    00:47:58     5              6    6
+3 Runner 147 Farum Orienteri D40    00:48:19     4    5    5
+4 Runner 149 Farum Orienteri D40    00:52:39     3    4    4
+5 Runner 150 OK Sorø          D40    00:57:24          3         5         6
+6 Runner 152 Farum Orienteri D40    00:58:24
+7 Runner 154 Søllerød OK     D40    01:03:38               3         5    5
+8 Runner 155 Søllerød OK     D40    01:06:41               2         4    4
+side 6                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+9 Runner 156 OK Sorø         D40    01:11:55         2         4         3
+10 Runner 160 FIF Hillerød Or D40    01:16:50    2              3    3
+11 Runner 162 FIF Hillerød Or D40    01:23:13    1              2    2
+12 Runner 165 Søllerød OK     D40    01:36:34              1         1    2
+13 Runner 167 OK Sorø         D40    02:16:23         1         1         1
+
+
+D45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 168 FIF Hillerød Or D45B   00:44:37    2              2    2
+2 Runner 170 Farum Orienteri D45B    00:50:54    2    2    2
+3 Runner 171 Søllerød OK     D45B   00:52:04              2         2    2
+4 Runner 172 FIF Hillerød Or D45B   00:52:43    2              2    2
+5 Runner 175 OK Sorø         D45B   00:54:34         2         2         2
+6 Runner 176 Søllerød OK     D45B   00:54:37              2         1    2
+7 Runner 177 Søllerød OK     D45B   00:57:53              1         1    1
+8 Runner 178 Søllerød OK       D45B   00:59:03
+9 Runner 179 Søllerød OK     D45B   00:59:28
+10 Runner 181 FIF Hillerød Or D45B   01:00:59    1              1    1
+11 Runner 182 Søllerød OK     D45B   01:01:33
+12 Runner 186 Farum Orienteri D45B   01:08:17    1    2    1
+   Runner 188 Søllerød OK     D45B   Ej start
+
+
+D50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 189 Søllerød OK       D50    00:55:19              6         6    6
+2 Runner 190 FIF Hillerød Or D50    00:58:58    6              6    5
+3 Runner 191 Farum Orienteri D50    00:59:05    5    6    5
+4 Runner 193 FIF Hillerød Or D50    01:01:38    4              5    4
+5 Runner 195 OK Sorø         D50    01:02:13         5         4         5
+6 Runner 196 FIF Hillerød Or D50    01:03:24    3              3    3
+7 Runner 198 Søllerød OK     D50    01:04:14              4         2    4
+8 Runner 199 Søllerød OK     D50    01:07:18              3         1    3
+9 Runner 201 OK Sorø         D50    01:11:44         4         2         2
+10 Runner 203 Søllerød OK     D50    01:13:26
+11 Runner 206 OK Sorø         D50    01:16:10         3         1         1
+12 Runner 207 Farum Orienteri D50    01:19:06    2    2    2
+13 Runner 208 OK Sorø         D50    01:35:47
+   Runner 210 Farum Orienteri D50    Ej start
+side 7                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+D60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 212 Søllerød OK     D60    00:30:49              6         6    6
+2 Runner 213 OK Sorø         D60    00:33:45         6         6         5
+3 Runner 216 FIF Hillerød Or D60    00:37:11    6              5    5
+4 Runner 218 Farum Orienteri D60    00:38:08    5    5    5
+5 Runner 221 Søllerød OK     D60    00:41:11              4         4    4
+6 Runner 223 Søllerød OK     D60    00:47:20              3         3    3
+7 Runner 225 OK Sorø         D60    00:57:06         4         4         2
+8 Runner 227 Søllerød OK     D60    00:58:15
+   Runner 231 OK Sorø         D60    Ej start
+   Runner 232 Farum Orienteri D60    Ej start
+   Runner 230 OK Sorø         D60     Ej slut
+
+
+D70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 236 Søllerød OK     D70    00:40:56               6         6    6
+2 Runner 237 FIF Hillerød Or D70    00:41:01     6              6    5
+3 Runner 238 Farum Orienteri D70    00:45:53     5    6    5
+4 Runner 241 FIF Hillerød Or D70    00:52:40     4              5    4
+5 Runner 242 Søllerød OK     D70    00:55:56               4         3    5
+6 Runner 244 FIF Hillerød Or D70    01:14:36     3              4    2
+   Runner 245 Farum Orienteri D70      Fejlst
+
+
+D80 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 246 Søllerød OK     D80    00:47:42              4         4    4
+2 Runner 247 FIF Hillerød Or D80    00:49:39    4              4    3
+3 Runner 250 Søllerød OK     D80    01:14:44              3         2    3
+
+
+D-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 023 OK Sorø         D-Let 00:34:53          2         2         2
+2 Runner 025 Søllerød OK     D-Let 00:35:31               2         2    2
+3 Runner 027 Farum Orienteri D-Let 00:37:52     2    2    2
+4 Runner 028 Farum Orienteri D-Let 00:39:58     2    2    2
+5 Runner 029 Søllerød OK     D-Let 00:44:05               1         2    2
+side 8                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+6 Runner 031 OK Sorø         D-Let   00:47:05         1         2         1
+7 Runner 033 FIF Hillerød Or D-Let   00:47:52    2              2    2
+8 Runner 034 OK Sorø         D-Let   00:50:11         1         1         1
+9 Runner 035 Søllerød OK     D-Let   00:53:27              1         1    1
+10 Runner 039 FIF Hillerød Or D-Let   01:13:42    1              1    1
+   Runner 043 Farum Orienteri D-Let   Ej start
+   Runner 041 FIF Hillerød Or D-Let     Fejlst
+
+
+H10 - [1, 1, 1, 1, 1, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 273 Søllerød OK     H10    00:20:00               1         1    1
+2 Runner 274 Farum Orienteri H10    00:21:14     1    1    1
+3 Runner 275 FIF Hillerød Or H10    00:22:13     1              1    1
+4 Runner 278 OK Sorø         H10    00:23:47          1         1         1
+5 Runner 279 Farum Orienteri H10    00:23:58     1    1    1
+6 Runner 281 OK Sorø         H10    00:31:42          1         1         1
+7 Runner 282 Søllerød OK     H10    00:32:17               1         1    1
+8 Runner 283 FIF Hillerød Or H10    00:33:03     1              1    1
+9 Runner 284 FIF Hillerød Or H10    00:33:25     1              1    1
+10 Runner 288 OK Sorø         H10    00:46:16          1         1         1
+11 Runner 289 Søllerød OK     H10    00:55:27               1         1    1
+12 Runner 290 Farum Orienteri H10    01:01:58     1    1    1
+
+
+H12 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 295 FIF Hillerød Or H12    00:27:08     4              4    4
+2 Runner 296 OK Sorø         H12    00:27:25          4         3         4
+3 Runner 297 Søllerød OK     H12    00:28:37               4         3    3
+4 Runner 298 Farum Orienteri H12    00:30:21     3    3    3
+5 Runner 300 Farum Orienteri H12    00:33:05     2    2    2
+6 Runner 302 FIF Hillerød Or H12    00:37:42     1              2    2
+7 Runner 303 OK Sorø         H12    00:39:43          1         1         2
+
+
+H12B - [1, 1, 1, 1, 1, 1]
+-------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 306 Søllerød OK     H12B   00:19:22               1         1    1
+2 Runner 307 OK Sorø         H12B   00:21:28          1         1         1
+3 Runner 308 FIF Hillerød Or H12B   00:23:11     1              1    1
+side 9                                                                     Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+4 Runner 311 FIF Hillerød Or H12B   00:30:44    1              1    1
+5 Runner 313 Farum Orienteri H12B   00:36:59    1    1    1
+6 Runner 314 OK Sorø         H12B   00:40:03         1         1         1
+
+
+H14 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 318 Søllerød OK     H14    00:45:46                4         4    4
+2 Runner 319 FIF Hillerød Or H14    00:55:02      4              4    3
+3 Runner 320 Farum Orienteri H14    00:57:17      3    4    3
+4 Runner 322 OK Sorø         H14    01:11:17           3         3         3
+5 Runner 323 OK Sorø         H14    01:37:49           2         2         2
+6 Runner 325 Farum Orienteri H14    02:09:13      2    1    2
+7 Runner 326 Søllerød OK     H14    02:09:41                1         2    1
+
+
+H14B - [2, 2, 1, 1]
+-------------------
+pl navn                   klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 327 FIF Hillerød Or H14B   00:53:41      2              2    2
+   Runner 330 OK Sorø         H14B     Fejlst
+
+
+H16 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 331 Farum Orienteri H16    00:40:03      4    4    4
+2 Runner 332 Søllerød OK     H16    00:41:02                3         4    4
+3 Runner 333 Farum Orienteri H16    00:44:17      3    3    2
+4 Runner 335 Søllerød OK     H16    00:48:43                1         3    3
+5 Runner 336 Farum Orienteri H16    00:53:22
+6 Runner 337 OK Sorø         H16    01:09:56           2         4         2
+7 Runner 338 FIF Hillerød Or H16    01:21:51      2              3    2
+
+
+H18 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 342 Søllerød OK     H18    01:28:14               4         4    4
+   Runner 344 Søllerød OK     H18    Ej start
+
+
+H20 - [4, 3, 2, 1]
+side 10                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+------------------
+pl navn                     klub           klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 346 Søllerød OK    H20    00:56:36              4         4    4
+2 Runner 347 Søllerød OK    H20    01:13:48              3         3    3
+3 Runner 349 OK Sorø        H20    01:17:29         4         4         2
+
+
+H20B - [2, 2, 1, 1]
+-------------------
+pl navn                     klub           klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 351 Søllerød OK    H20B   00:35:45              2         2    2
+2 Runner 352 Søllerød OK    H20B   00:41:09              2         2    2
+3 Runner 356 OK Sorø        H20B   01:13:19         2         2         1
+   Runner 358 OK Sorø        H20B     Fejlst
+
+
+H21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 361 FIF Hillerød Or H21    00:44:07    8              8    8
+2 Runner 363 Farum Orienteri H21    00:49:04    7    8    8
+3 Runner 365 Søllerød OK     H21    00:50:40              7         7    8
+4 Runner 366 Søllerød OK     H21    00:50:46              6         6    7
+5 Runner 367 Søllerød OK     H21    00:51:17              5         5    6
+6 Runner 369 FIF Hillerød Or H21    00:52:01    6              7    4
+7 Runner 370 OK Sorø         H21    00:54:30         7         6         5
+8 Runner 372 Søllerød OK     H21    00:56:14              4         3    4
+9 Runner 375 OK Sorø          H21    01:00:18         6         5         3
+10 Runner 376 OK Sorø         H21    01:00:28         5         4         2
+11 Runner 377 Farum Orienteri H21    01:02:58    5    4    3
+12 Runner 379 FIF Hillerød Or H21    01:07:29    4              3    2
+13 Runner 380 FIF Hillerød Or H21    01:11:45    3              2    1
+14 Runner 381 OK Sorø         H21    01:12:22         3         1         1
+15 Runner 383 Farum Orienteri H21    01:14:04    2    2    2
+16 Runner 387 OK Sorø         H21    01:22:10
+   Runner 391 Søllerød OK     H21    Ej start
+   Runner 393 Farum Orienteri H21    Ej start
+   Runner 394 Søllerød OK     H21    Ej start
+   Runner 395 Farum Orienteri H21    Ej start
+
+
+H21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub           klasse    tid     m1   m2   m3   m4   m5   m6
+side 11                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+1 Runner 396 Søllerød OK       H21B    00:40:14              2         2    2
+2 Runner 397 OK Sorø          H21B    00:42:10         2         2         2
+3 Runner 399 Farum Orienteri H21B     00:42:31    2    2    2
+4 Runner 400 FIF Hillerød Or H21B    00:43:20    2              2    2
+5 Runner 401 Søllerød OK      H21B    00:46:00              2         2    2
+6 Runner 402 FIF Hillerød Or H21B    00:47:50    2              2    1
+7 Runner 403 Farum Orienteri H21B      00:48:54    1    2    1
+8 Runner 406 FIF Hillerød Or H21B     00:54:59    1              1    1
+9 Runner 408 Søllerød OK     H21B    00:58:33              1         1    1
+10 Runner 409 OK Sorø         H21B    01:01:19         1         1         1
+11 Runner 414 FIF Hillerød Or H21B    01:06:18
+12 Runner 415 Farum Orienteri H21B    01:08:49    1    1    1
+   Runner 419 OK Sorø         H21B      Fejlst
+   Runner 420 OK Sorø         H21B     Ej slut
+
+
+H40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 421 Søllerød OK     H40    00:40:17               6         6    6
+2 Runner 422 Farum Orienteri H40    00:42:11     6    6    5
+3 Runner 424 OK Sorø         H40    00:46:50          5         6         5
+4 Runner 425 Farum Orienteri H40    00:47:42     5    4    4
+5 Runner 427 FIF Hillerød Or H40    00:48:52     4              5    5
+6 Runner 428 Søllerød OK     H40    00:49:32               3         4    4
+7 Runner 429 FIF Hillerød Or H40    00:49:44     3              4    3
+8 Runner 431 OK Sorø         H40    00:52:56          3         3         3
+9 Runner 435 Farum Orienteri H40    00:57:13     2    2    2
+10 Runner 439 FIF Hillerød Or H40     01:03:01     1              2    2
+11 Runner 442 Farum Orienteri H40    01:10:22
+12 Runner 443 OK Sorø         H40    01:12:50          1         1         2
+13 Runner 444 Søllerød OK     H40    01:13:19               1         1    1
+14 Runner 447 Søllerød OK     H40    01:16:29
+   Runner 450 Søllerød OK     H40    Ej start
+
+
+H45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 451 FIF Hillerød Or H45B   00:42:36    2              2    2
+2 Runner 452 FIF Hillerød Or H45B   00:43:55    2              2    2
+3 Runner 456 FIF Hillerød Or H45B   00:48:14    2              2    2
+4 Runner 457 Søllerød OK     H45B   00:53:08              2         1    2
+5 Runner 458 Farum Orienteri H45B   00:54:31    1    2    2
+side 12                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+6 Runner 460 FIF Hillerød Or H45B   00:54:47
+7 Runner 463 OK Sorø         H45B   00:58:01         2         1         2
+8 Runner 466 FIF Hillerød Or H45B   01:00:12
+9 Runner 468 Farum Orienteri H45B   01:04:53    1    2    2
+10 Runner 469 Farum Orienteri H45B   01:06:24    1    1    1
+11 Runner 470 Søllerød OK     H45B   01:08:59              1         1    2
+12 Runner 471 Søllerød OK     H45B   01:09:18              1         1    1
+13 Runner 473 Søllerød OK     H45B   01:14:25
+14 Runner 474 OK Sorø         H45B   01:34:07         1         1         1
+   Runner 476 Farum Orienteri H45B   Ej start
+
+
+H50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 479 Farum Orienteri H50    00:38:07    6    6    6
+2 Runner 480 Farum Orienteri H50    00:39:23    5    5    5
+3 Runner 484 FIF Hillerød Or H50    00:41:38    4              6    6
+4 Runner 486 OK Sorø         H50    00:43:31         4         5         6
+5 Runner 487 FIF Hillerød Or H50    00:46:18    3              4    5
+6 Runner 489 Søllerød OK     H50    00:46:58              4         4    5
+7 Runner 490 Farum Orienteri H50    00:47:10    2    3    3
+8 Runner 491 Farum Orienteri H50    00:49:02
+9 Runner 492 Søllerød OK     H50    00:49:25              2         3    4
+10 Runner 494 OK Sorø         H50    00:51:01         2         3         3
+11 Runner 497 Farum Orienteri H50    00:53:56
+12 Runner 499 Søllerød OK     H50    00:54:30              1         2    2
+13 Runner 503 Søllerød OK     H50    00:57:08
+14 Runner 504 Søllerød OK     H50    00:57:28
+15 Runner 505 OK Sorø         H50    00:58:36         1         2         1
+16 Runner 506 FIF Hillerød Or H50    00:59:48    1              1    1
+17 Runner 507 Søllerød OK     H50    01:00:10
+18 Runner 508 OK Sorø          H50    01:00:16
+19 Runner 509 FIF Hillerød Or H50    01:02:02
+20 Runner 510 Søllerød OK     H50    01:03:40
+21 Runner 513 FIF Hillerød Or H50    01:06:04
+22 Runner 514 Søllerød OK     H50    01:08:49
+23 Runner 515 Søllerød OK     H50    01:11:08
+24 Runner 516 FIF Hillerød Or H50    01:32:51
+25 Runner 517 Søllerød OK     H50    01:46:00
+
+
+H60 - [6, 5, 4, 3, 2, 1]
+------------------------
+side 13                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 521 FIF Hillerød Or H60    00:39:39    6              6    6
+2 Runner 522 Søllerød OK     H60    00:40:05              6         5    6
+3 Runner 524 Farum Orienteri H60    00:41:02    5    6    5
+4 Runner 525 Farum Orienteri H60    00:41:15    4    5    4
+5 Runner 527 Farum Orienteri H60    00:43:23    3    4    3
+6 Runner 528 FIF Hillerød Or H60    00:44:30    2              5    4
+7 Runner 530 Søllerød OK     H60    00:45:43              2         3    5
+8 Runner 531 Farum Orienteri H60    00:46:23
+9 Runner 532 Søllerød OK     H60    00:47:30              1         2    4
+10 Runner 533 Farum Orienteri H60    00:47:33
+11 Runner 534 Søllerød OK     H60    00:49:21
+12 Runner 537 Søllerød OK     H60    00:50:23
+13 Runner 538 FIF Hillerød Or H60    00:50:49    1              4    1
+14 Runner 539 FIF Hillerød Or H60    00:53:56
+15 Runner 540 FIF Hillerød Or H60    00:55:04
+16 Runner 541 Farum Orienteri H60    00:55:40
+17 Runner 543 OK Sorø         H60    00:56:07         3         3         3
+18 Runner 544 Søllerød OK     H60    00:56:56
+19 Runner 545 Søllerød OK     H60    00:57:04
+20 Runner 546 Farum Orienteri H60    00:57:32
+21 Runner 548 Søllerød OK     H60    00:59:48
+22 Runner 552 FIF Hillerød Or H60    01:06:14
+23 Runner 553 Søllerød OK     H60    01:07:17
+24 Runner 554 OK Sorø         H60    01:08:10         2         2         2
+25 Runner 555 FIF Hillerød Or H60    01:14:35
+26 Runner 556 Søllerød OK     H60    01:14:36
+27 Runner 557 Søllerød OK     H60    01:16:15
+28 Runner 559 OK Sorø         H60    01:16:49         1         1         1
+29 Runner 562 Farum Orienteri H60    01:19:22
+30 Runner 564 Søllerød OK     H60    01:33:45
+   Runner 565 OK Sorø         H60    Ej start
+   Runner 566 OK Sorø         H60    Ej start
+
+
+H70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 569 FIF Hillerød Or H70    00:34:42    6              6    6
+2 Runner 571 FIF Hillerød Or H70    00:37:43    5              5    5
+3 Runner 572 Farum Orienteri H70    00:38:18    4    6    6
+4 Runner 573 Søllerød OK     H70    00:38:26              5         4    6
+5 Runner 575 Farum Orienteri H70    00:39:55    3    5    4
+6 Runner 576 FIF Hillerød Or H70    00:40:02    2              4    3
+side 14                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+7 Runner 577 Søllerød OK     H70     00:42:20              3         2    5
+8 Runner 578 Søllerød OK     H70     00:43:03              2         1    4
+9 Runner 579 FIF Hillerød Or H70     00:43:55
+10 Runner 581 FIF Hillerød Or H70     00:44:21
+11 Runner 583 Farum Orienteri H70     00:47:22    1    4    1
+12 Runner 584 Søllerød OK     H70     00:47:37
+13 Runner 587 Farum Orienteri H70     00:51:38
+14 Runner 588 Søllerød OK     H70     00:51:59
+15 Runner 591 OK Sorø         H70     01:00:51         3         3         3
+16 Runner 592 OK Sorø         H70     01:03:03         2         2         2
+   Runner 593 OK Sorø         H70       Fejlst
+   Runner 594 OK Sorø         H70      Ej slut
+
+
+H80 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 597 FIF Hillerød Or H80    00:35:11    4              4    4
+2 Runner 598 Søllerød OK     H80    00:37:26              4         3    4
+3 Runner 599 FIF Hillerød Or H80    00:37:55    3              3    2
+4 Runner 600 Søllerød OK     H80    00:39:37              3         1    3
+5 Runner 601 FIF Hillerød Or H80    00:40:06
+6 Runner 602 Farum Orienteri H80    00:41:48    2    4    2
+7 Runner 603 Søllerød OK     H80    00:43:54
+8 Runner 605 Søllerød OK     H80    00:49:40
+9 Runner 608 FIF Hillerød Or H80    00:54:06
+10 Runner 609 FIF Hillerød Or H80    00:54:39
+11 Runner 610 Søllerød OK     H80    00:58:53
+12 Runner 613 Farum Orienteri H80    01:15:47    1    3    1
+13 Runner 614 Farum Orienteri H80    01:25:10
+14 Runner 615 OK Sorø         H80    01:38:41         2         2         2
+   Runner 619 Farum Orienteri H80    Ej start
+   Runner 620 Farum Orienteri H80    Ej start
+   Runner 618 FIF Hillerød Or H80      Fejlst
+   Runner 616 FIF Hillerød Or H80      Fejlst
+
+
+H-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 252 FIF Hillerød Or H-Let 00:19:10     2              2    2
+2 Runner 254 OK Sorø         H-Let 00:24:52          2         2         2
+3 Runner 255 Søllerød OK      H-Let 00:25:08               2         2    2
+4 Runner 256 FIF Hillerød Or H-Let 00:29:31     2              2    2
+side 15                                                                    Divisionsmatch v2025.0.0 / 2026-03-22 15:44:29
+-------------------------------------------------------------------------------------------------------------------------
+
+5 Runner 257 Farum Orienteri H-Let   00:29:32    2    2    2
+6 Runner 259 FIF Hillerød Or H-Let   00:35:09    1              1    1
+7 Runner 260 OK Sorø         H-Let   00:37:12         2         1         2
+8 Runner 261 FIF Hillerød Or H-Let   00:37:35
+9 Runner 265 OK Sorø         H-Let   00:50:40         1         1         1
+10 Runner 268 Søllerød OK     H-Let   01:06:14              2         1    1
+   Runner 272 Farum Orienteri H-Let   Ej start
+   Runner 271 Søllerød OK     H-Let     Fejlst
+

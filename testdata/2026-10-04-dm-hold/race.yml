@@ -1,0 +1,40 @@
+# A golden race: a real competition and its official divisionsmatch result.
+# The test computes the result from results.xml and compares it with the
+# official printouts in the official folder.
+#
+# Race:  DM Hold, finale
+# Date:  2026-10-04
+# Venue: Nørlund Syd
+#
+# The official printouts of this race are scanned PDF files. The files
+# in the official folder are a transcription by hand of their summary
+# pages: the season standing, the match blocks and the group-by-match
+# grid. They have no runner rows.
+#
+# All runner names are generic names ("Runner 001"). A runner has the same
+# generic name in results.xml and in the official folder. The test does
+# not read names.
+
+results: results.xml
+
+divisions:
+  - name: DM Hold
+    official: official/dm-hold.txt
+    transcribed: true
+    clubs:
+      - name: FIF Hillerød
+        printed: FIF Hillerød Orientering
+      - name: Horsens OK
+        printed: Horsens Orienteringsklub
+      - name: OK H.T.F.
+      - name: OK Snab
+      - name: Silkeborg OK
+      - name: Søllerød OK
+    standing:
+      - { club: Silkeborg OK, score: 1275, against: 730, match_points: 10 }
+      - { club: OK Snab, score: 1098, against: 847, match_points: 8 }
+      - { club: Horsens OK, score: 1109, against: 889, match_points: 6 }
+      - { club: Søllerød OK, score: 924, against: 945, match_points: 4 }
+      - { club: FIF Hillerød, score: 629, against: 1113, match_points: 1 }
+      - { club: OK H.T.F., score: 624, against: 1135, match_points: 1 }
+    matches: [[127, 247], [152, 152], [120, 239], [104, 269], [126, 206], [257, 116], [199, 218], [185, 246], [221, 182], [120, 243], [109, 271], [127, 212], [180, 236], [218, 172], [253, 152]]

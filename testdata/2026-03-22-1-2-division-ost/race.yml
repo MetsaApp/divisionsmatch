@@ -1,0 +1,47 @@
+# A golden race: a real competition and its official divisionsmatch result.
+# The test computes the result from results.xml and compares it with the
+# official printouts in the official folder.
+#
+# Race:  1. og 2. division Øst, 1. runde
+# Date:  2026-03-22
+# Venue: Jonstrup Vang + Lille Hareskov
+#
+# The official text files are the text of the PDF printouts, from
+# "pdftotext -layout".
+#
+# All runner names are generic names ("Runner 001"). A runner has the same
+# generic name in results.xml and in the official folder. The test does
+# not read names.
+
+results: results.xml
+
+divisions:
+  - name: 1. division
+    official: official/1-division.txt
+    clubs:
+      - name: Farum OK
+        printed: Farum Orienteringsklub
+      - name: FIF Hillerød
+        printed: FIF Hillerød Orientering
+      - name: OK Sorø
+      - name: Søllerød OK
+    standing:
+      - { club: Søllerød OK, score: 661, against: 516, match_points: 6 }
+      - { club: FIF Hillerød, score: 644, against: 518, match_points: 4 }
+      - { club: Farum OK, score: 506, against: 584, match_points: 2 }
+      - { club: OK Sorø, score: 463, against: 656, match_points: 0 }
+    matches: [[158, 210], [183, 162], [165, 212], [231, 153], [203, 207], [148, 242]]
+
+  - name: 2. division
+    official: official/2-division.txt
+    clubs:
+      - name: Allerød OK
+      - name: Holbæk OK
+      - name: OK ØST Birkerød
+      - name: Tisvilde Hegn OK
+    standing:
+      - { club: OK ØST Birkerød, score: 602, against: 421, match_points: 6 }
+      - { club: Allerød OK, score: 519, against: 473, match_points: 4 }
+      - { club: Holbæk OK, score: 436, against: 558, match_points: 2 }
+      - { club: Tisvilde Hegn OK, score: 425, against: 530, match_points: 0 }
+    matches: [[185, 143], [155, 194], [179, 136], [134, 216], [159, 157], [192, 132]]

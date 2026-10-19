@@ -1,0 +1,38 @@
+# A golden race: a real competition and its official divisionsmatch result.
+# The test computes the result from results.xml and compares it with the
+# official printouts in the official folder.
+#
+# Race:  1. division Nord, 2. runde
+# Date:  2026-09-06
+# Venue: Hald Ege
+#
+# The official printouts of this race are scanned PDF files. The files
+# in the official folder are a transcription by hand of their summary
+# pages: the season standing, the match blocks and the group-by-match
+# grid. They have no runner rows.
+#
+# All runner names are generic names ("Runner 001"). A runner has the same
+# generic name in results.xml and in the official folder. The test does
+# not read names.
+
+results: results.xml
+
+divisions:
+  - name: 1. division
+    official: official/1-division.txt
+    transcribed: true
+    before:
+      - { race: 2026-05-10-1-3-division-nord, division: 1. division }
+    clubs:
+      - name: Herning OK
+        printed: Herning Orienteringsklub
+      - name: Horsens OK
+        printed: Horsens Orienteringsklub
+      - name: OK Pan
+      - name: Silkeborg OK
+    standing:
+      - { club: Silkeborg OK, score: 686, against: 382, match_points: 6 }
+      - { club: Horsens OK, score: 673, against: 443, match_points: 4 }
+      - { club: OK Pan, score: 486, against: 499, match_points: 2 }
+      - { club: Herning OK, score: 170, against: 691, match_points: 0 }
+    matches: [[62, 263], [58, 183], [50, 245], [220, 161], [190, 220], [142, 221]]

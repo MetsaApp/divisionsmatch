@@ -58,6 +58,11 @@ same match points, the program uses the tie-breaks in this order:
 1. **Mutual score**: the score of each club in the matches between these clubs only.
 2. **Best runners**: the number of groups where the club has the best runner among these clubs. If this is equal, the program counts the second best runners, then the third best runners, and so on.
 
+A division has two or more rounds in a season. The season standing adds
+the match points and the scores of all rounds. For clubs with the same
+match points, the program uses the same tie-breaks. The tie-breaks use the
+matches and the groups of all rounds.
+
 ## Check the calculation yourself
 
 You can run the tests on your computer. The tests calculate a real race and
@@ -73,29 +78,51 @@ compare the result with the official result of that race.
 Each division writes a line like this:
 
 ```
-4 standing lines, 6 matches, 228 grid cells, 169 runner rows agree
+4 standing lines, 6 matches, 228 grid cells, 169 runner rows, 4 season lines agree
 ```
 
 This line tells you that the program and the official result give the
 same standing, the same score in each match, the same score in each group
-of each match, and the same place and points for each runner.
+of each match, the same place and points for each runner, and the same
+season standing with the same tie-break values.
 
-### The golden race
+### The golden races
 
-The test race is "Op/Ned 3-6. division Øst" at Ganløse Ore on 2026-10-04.
-Farum OK organised it and published the official result as three PDF files.
-The folder [testdata/2026-10-04-op-ned-ost](testdata/2026-10-04-op-ned-ost)
-contains these files:
+Each folder in [testdata](testdata) is one race with its official result:
+
+| Folder | Race | Divisions |
+|--------|------|-----------|
+| `2026-03-22-1-2-division-ost` | 1. and 2. division Øst, round 1 | 1, 2 |
+| `2026-05-10-1-3-division-nord` | 1., 2. and 3. division Nord, round 1 | 1, 2, 3 |
+| `2026-05-31-1-2-division-ost` | 1. and 2. division Øst, round 2 | 1, 2 |
+| `2026-08-30-2-3-division-nord` | 2. and 3. division Nord, round 2 | 2, 3 |
+| `2026-09-06-1-division-nord` | 1. division Nord, round 2 | 1 |
+| `2026-10-04-dm-hold` | DM Hold, the final round, 6 clubs | DM Hold |
+| `2026-10-04-op-ned-ost` | Op/Ned 3-6. division Øst | 3-4, 4-5, 5-6 |
+
+Each folder contains these files:
 
 | File | Content |
 |------|---------|
 | `results.xml` | The result list of the competition, as IOF XML 3.0. |
-| `official/*.txt` | The text of the official PDF files, from `pdftotext -layout`. |
-| `race.yml` | The divisions, the clubs in match order, and the standing and match scores, copied by hand from the PDF files. |
+| `official/*.txt` | The official result of each division. |
+| `race.yml` | The divisions, the clubs in match order, and the standing and match scores, copied by hand from the official result. |
+
+Some official results are PDF files with text. For these races,
+`official/*.txt` is the text of the PDF file, from `pdftotext -layout`.
+Other official results are scanned PDF files without text. For these
+races, `official/*.txt` is a transcription by hand of the first pages: the
+season standing, the matches and the score of each group in each match.
+These files have no runner rows, and `race.yml` sets `transcribed: true`.
+
+For round 2, `race.yml` names round 1 with `before`. The test then
+calculates the season standing of both rounds and compares it with the
+standing at the top of the official result.
 
 All runner names in these files are generic names, for example
-"Runner 001". The same runner has the same generic name in all files. The
-test does not use names. It finds each runner by club, class and time.
+"Runner 001". A runner has the same generic name in `results.xml` and in
+the official files of the same race. The test does not use names. It finds
+each runner by club, class and time.
 
 ### Add a race
 
@@ -109,9 +136,15 @@ to write Go.
 5. Convert each official PDF file to text with `pdftotext -layout`.
 6. Replace the runner names in the text files with the same generic names.
 7. Save the text files in a folder `official` in the new folder.
-8. Copy `race.yml` from the golden race into the new folder.
+8. Copy `race.yml` from a golden race into the new folder.
 9. Change the divisions, clubs, standing and match scores to the values of the new race.
-10. Run `go test ./...`.
+10. If the race is round 2 or later, add the earlier rounds with `before`.
+11. Run `go test ./...`.
+
+If an official PDF file is a scan without text, write the first pages by
+hand in the layout of `pdftotext`. Look at
+[testdata/2026-10-04-dm-hold/official](testdata/2026-10-04-dm-hold/official)
+for an example. Set `transcribed: true` for that division.
 
 Do not put real runner names in the repository.
 
@@ -199,10 +232,11 @@ The public API:
 | `Rulebooks()`, `Embedded(version)`, `Latest()` | The rulebooks in the module. |
 | `Load(path)`, `Parse(yaml)` | A rulebook from a file or from bytes. |
 | `(*Rulebook).Compute(Config, []Runner) Result` | The calculation. |
+| `(*Rulebook).Season(name, []DivisionResult) Season` | The season standing of one division over its rounds. Give a club the same name in all rounds. |
 | `(*Rulebook).GuessGroup(className)` | The group of a class name, or `""`. |
 | `(*Rulebook).Group(name)` | A group and its scale. |
 | `Runner`, `Status`, `Config`, `Division` | The input. |
-| `Result`, `DivisionResult`, `ClubStanding`, `Placement`, `Match`, `Group`, `GroupRow` | The output. |
+| `Result`, `DivisionResult`, `ClubStanding`, `Placement`, `Match`, `Group`, `GroupRow`, `Season`, `SeasonStanding` | The output. |
 
 `Runner.Time` is the finish time in whole seconds. `Status` uses the MeOS
 status codes. `GroupRow.Index` is the position of the runner in the slice
