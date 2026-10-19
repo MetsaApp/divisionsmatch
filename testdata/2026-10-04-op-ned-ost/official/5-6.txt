@@ -1,0 +1,257 @@
+side 1                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:32:34
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Stilling , Østkredsen, op/ned Op/ned 5-6. division
+--------------------------------------------------
+
+| Placering |           Klubnavn         | 1. runde | 1. runde | Stilling | Stilling | kommentar |
+|           |                            | LøbsPoint | MatchPoint | LøbsPoint | MatchPoint |           |
+--------------------------------------------------------------------------------------------------------
+|     1     | Kildeholm Orienteringsklub | 212 - 176 |     6      | 212 - 176 |     6      |           |
+|     2     | O-63/Maribo                | 190 - 187 |     4      | 190 - 187 |     4      |           |
+|     3     | DSR/Fredensborg/Vinderød   | 193 - 186 |     2      | 193 - 186 |     2      |           |
+|     4     | Lyngby OK                  | 151 - 197 |     0      | 151 - 197 |     0      |           |
+
+                         ---ooo---
+
+
+Divisionsmatch (Ganløse Ore, 2026-10-04)
+----------------------------------------
+                                                score       point
+Kildeholm Orienteringsklub                    212 -   176       6
+O-63/Maribo                                   190 -   187       4
+DSR/Fredensborg/Vinderød                      193 -   186       2
+Lyngby OK                                     151 -   197       0
+
+1 : DSR/Fredensborg/Vinderød - Kildeholm Orienteringsklub :         63 -   71
+2 : DSR/Fredensborg/Vinderød - Lyngby OK                  :         66 -   50
+3 : DSR/Fredensborg/Vinderød - O-63/Maribo                :         64 -   65
+4 : Kildeholm Orienteringsklub - Lyngby OK                :         70 -   49
+5 : Kildeholm Orienteringsklub - O-63/Maribo              :         71 -   64
+6 : Lyngby OK - O-63/Maribo                               :         52 -   61
+
+
+         m1    m2    m3    m4    m5    m6
+        ----- ----- ----- ----- ----- -----
+Begynder 0-0   0-0   0-0   0-0   0-0   0-0
+D10      0-1   0-0   0-0   1-0   1-0   0-0
+D12      0-0   0-0   0-0   0-0   0-0   0-0
+D12B     0-0   0-0   0-0   0-0   0-0   0-0
+D14      0-0   0-0   0-0   0-0   0-0   0-0
+D14B     0-0   0-0   0-0   0-0   0-0   0-0
+D16      0-0   0-0   0-0   0-0   0-0   0-0
+D18      0-4   0-0   0-0   4-0   4-0   0-0
+D20      0-0   0-0   0-0   0-0   0-0   0-0
+D20B     0-0   0-0   0-0   0-0   0-0   0-0
+D21      8-0   7-8   7-8   0-8   0-8   8-7
+side 2                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:32:34
+-------------------------------------------------------------------------------------------------------------------------
+
+D21B     2-2   2-0   2-2   2-0   2-2   0-2
+D40      4-14 6-5    6-0 14-4 15-0     6-0
+D45B     0-0   0-0   0-0   0-0   0-0   0-0
+D50      7-11 11-0 11-0 11-0 11-0      0-0
+D60      0-0   0-0   0-0   0-0   0-0   0-0
+D70      0-6   0-0   0-6   6-0   5-6   0-6
+D80      0-4   0-0   0-0   4-0   4-0   0-0
+D-Let    0-0   0-2   0-0   0-2   0-0   2-0
+H10      0-0   0-1   0-0   0-1   0-0   1-0
+H12      0-0   0-0   0-4   0-0   0-4   0-4
+H12B     0-0   0-0   0-0   0-0   0-0   0-0
+H14      0-0   0-0   0-0   0-0   0-0   0-0
+H14B     0-0   0-0   0-0   0-0   0-0   0-0
+H16      0-0   0-0   0-0   0-0   0-0   0-0
+H18      0-0   0-0   0-0   0-0   0-0   0-0
+H20      0-0   0-0   0-0   0-0   0-0   0-0
+H20B     0-0   0-0   0-0   0-0   0-0   0-0
+H21      7-8   7-8   5-21 7-8    6-20 7-19
+H21B     0-0   0-0   0-0   0-0   0-0   0-0
+H40     11-4   9-6   9-9   5-6   5-10 5-10
+H45B     0-2   0-2   0-2   2-2   2-2   2-2
+H50      6-0   5-6   6-0   0-6   0-0   6-0
+H60      6-9   6-12 6-5    8-12 10-5 15-3
+H70      5-6   6-0   5-6   6-0   6-5   0-6
+H80      7-0   7-0   7-0   0-0   0-0   0-0
+H-Let    0-0   0-0   0-2   0-0   0-2   0-2
+Ialt:   63-71 66-50 64-65 70-49 71-64 52-61
+
+D10 - [1, 1, 1, 1, 1, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 009               Kildeholm Orien D10    00:32:14    1              1    1
+
+
+D14B - [2, 2, 1, 1]
+-------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+   Runner 015              Kildeholm Orien D14B   Ej start
+
+
+D18 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 016               Kildeholm Orien D18    01:41:48    4              4    4
+side 3                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:32:34
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+D21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 029               Lyngby OK       D21    01:27:10          8         8         8
+2 Runner 031               O-63/Maribo     D21    01:31:06               8         8    7
+3 Runner 030               DSR/Fredensborg D21    01:31:14     8    7    7
+
+
+D21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                   klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 040              DSR/Fredensborg D21B   00:52:58      2    2    2
+2 Runner 039              O-63/Maribo     D21B   00:54:42                2         2    2
+3 Runner 038              Kildeholm Orien D21B   01:02:17      2              2    2
+
+
+D40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 053                Kildeholm Orien D40    01:18:23    6              6    6
+2 Runner 049                Kildeholm Orien D40    01:21:01    5              5    5
+3 Runner 052                DSR/Fredensborg D40    01:31:27    4    6    6
+4 Runner 050                Lyngby OK       D40    01:34:13         5         4         6
+5 Runner 051                Kildeholm Orien D40    02:05:03    3              3    4
+
+
+D45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+   Runner 067               Kildeholm Orien D45B   Ej start
+
+
+D50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 079                Kildeholm Orien D50    00:53:24    6              6    6
+2 Runner 082                Kildeholm Orien D50    01:11:01    5              5    5
+3 Runner 081                DSR/Fredensborg D50    01:12:54    4    6    6
+4 Runner 078                DSR/Fredensborg D50    01:28:33    3    5    5
+   Runner 080               O-63/Maribo     D50      Fejlst
+side 4                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:32:34
+-------------------------------------------------------------------------------------------------------------------------
+
+D70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 116               O-63/Maribo     D70    01:36:23              6         6    6
+2 Runner 117                Kildeholm Orien D70    01:46:09    6              6    5
+
+
+D80 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 126                 Kildeholm Orien D80    02:04:05    4              4    4
+
+
+D-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 144               Lyngby OK       D-Let 00:43:58          2         2         2
+
+
+H10 - [1, 1, 1, 1, 1, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 146               Lyngby OK       H10    00:18:40         1         1         1
+   Runner 147              Lyngby OK       H10    Ej start
+
+
+H12 - [4, 3, 2, 1]
+------------------
+pl navn                   klub             klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 155              O-63/Maribo      H12    00:56:38              4         4    4
+
+
+H21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 180               O-63/Maribo     H21    00:47:39              8         8    8
+2 Runner 175               Lyngby OK       H21    00:57:51         8         8         7
+3 Runner 176               O-63/Maribo     H21    01:05:20              7         7    6
+4 Runner 181             Kildeholm Orien H21      01:15:07    8              7    6
+5 Runner 178               O-63/Maribo     H21    01:29:09              6         5    5
+6 Runner 177               DSR/Fredensborg H21    01:29:56    7    7    5
+   Runner 179             Kildeholm Orien H21       Fejlst
+side 5                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:32:34
+-------------------------------------------------------------------------------------------------------------------------
+
+H40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 212                O-63/Maribo     H40    01:07:12              6         6    6
+2 Runner 215                Lyngby OK       H40    01:16:19         6         6         5
+3 Runner 214                DSR/Fredensborg H40    01:16:49    6    5    5
+4 Runner 210                DSR/Fredensborg H40    01:30:57    5    4    4
+5 Runner 213                Kildeholm Orien H40    01:33:59    4              5    5
+6 Runner 216                O-63/Maribo     H40    01:49:44              3         4    4
+   Runner 211               Kildeholm Orien H40      Fejlst
+
+
+H45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 237                Kildeholm Orien H45B   01:14:58    2              2    2
+2 Runner 235                O-63/Maribo     H45B   01:18:55              2         2    2
+3 Runner 238                 Lyngby OK       H45B   01:41:44         2         2         2
+   Runner 236               Lyngby OK       H45B     Fejlst
+
+
+H50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 259                Lyngby OK       H50    01:02:48         6         6         6
+2 Runner 260                DSR/Fredensborg H50    01:17:45    6    5    6
+
+
+H60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 287                DSR/Fredensborg H60    00:49:03    6    6    6
+2 Runner 286                Kildeholm Orien H60    00:58:46    5              6    6
+3 Runner 288                Lyngby OK       H60    01:00:16         5         5         6
+4 Runner 285                Lyngby OK       H60    01:02:11         4         4         5
+5 Runner 290                Lyngby OK       H60    01:05:17         3         3         4
+6 Runner 291                O-63/Maribo     H60    01:16:52              5         5    3
+7 Runner 289                Kildeholm Orien H60    01:54:46    4              2    4
+
+
+H70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 320                Kildeholm Orien H70    01:01:57    6              6    6
+side 6                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:32:34
+-------------------------------------------------------------------------------------------------------------------------
+
+2   Runner 322               O-63/Maribo     H70    01:02:43              6         5    6
+3   Runner 321               DSR/Fredensborg H70    01:42:24    5    6    5
+    Runner 319               DSR/Fredensborg H70      Fejlst
+
+
+H80 - [4, 3, 2, 1]
+------------------
+pl navn                      klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 338                 DSR/Fredensborg H80    00:45:33    4    4    4
+2 Runner 334                 DSR/Fredensborg H80    01:10:09    3    3    3
+   Runner 339                Lyngby OK       H80    Ej start
+   Runner 337                O-63/Maribo     H80    Ej start
+   Runner 336                DSR/Fredensborg H80      Fejlst
+   Runner 335                Kildeholm Orien H80      Fejlst
+   Runner 333                  Kildeholm Orien H80      Fejlst
+
+
+H-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub              klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 353               O-63/Maribo       H-Let 00:58:39               2         2    2
+   Runner 352              O-63/Maribo       H-Let   Fejlst
+

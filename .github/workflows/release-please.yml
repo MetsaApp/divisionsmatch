@@ -1,0 +1,23 @@
+name: Release Please
+
+# Versioning only. One tag versions the Go module and the rulebooks it
+# embeds together: a rulebook change is a release like a code change, and
+# `go get github.com/MetsaApp/divisionsmatch@vX.Y.Z` pins both.
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: googleapis/release-please-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json

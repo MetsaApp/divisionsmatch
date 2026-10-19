@@ -1,0 +1,73 @@
+# A golden race: a real competition and its official divisionsmatch result.
+# The test computes the result from results.xml and compares it with the
+# official printouts in the official folder.
+#
+# Race:      Op/Ned 3-6. division Øst
+# Date:      2026-10-04
+# Venue:     Ganløse Ore
+# Organiser: Farum OK
+#
+# The official result is three PDF files, published by Farum OK:
+#   https://farum-ok.dk/wp-content/uploads/2026/10/Op-ned-3-6-division-2026-Matchresultat-3-4.pdf
+#   https://farum-ok.dk/wp-content/uploads/2026/10/Op-ned-3-6-division-2026-Matchresultat-4-5.pdf
+#   https://farum-ok.dk/wp-content/uploads/2026/10/Op-ned-3-6-division-2026-Matchresultat-5-6.pdf
+# The files in the official folder are the text of these PDFs, from
+# "pdftotext -layout".
+#
+# All runner names in results.xml and in the official folder are generic
+# names ("Runner 001"). The same runner has the same generic name in all
+# files. The test does not read names.
+
+results: results.xml
+
+divisions:
+  - name: Op/ned 3-4. division
+    official: official/3-4.txt
+    # The clubs in match order. "printed" is the club name in the official
+    # printout when it is different from the name in results.xml.
+    clubs:
+      - name: Herlufsholm OK
+      - name: OK73 Gladsaxe
+      - name: OK Roskilde
+        printed: Orienteringsklubben Roskilde
+      - name: PI-København
+    # The standing and the match scores, copied by hand from the printout.
+    standing:
+      - { club: Herlufsholm OK, score: 443, against: 360, match_points: 6 }
+      - { club: OK Roskilde, score: 386, against: 356, match_points: 4 }
+      - { club: OK73 Gladsaxe, score: 346, against: 400, match_points: 2 }
+      - { club: PI-København, score: 332, against: 391, match_points: 0 }
+    matches: [[156, 116], [145, 129], [142, 115], [107, 131], [123, 113], [126, 104]]
+
+  - name: Op/ned 4-5. division
+    official: official/4-5.txt
+    # results.xml also has a club "Helsingør SOK" with 1 runner. That club
+    # is a duplicate entry. HSOK is the club in the match, and the printout
+    # uses the name "Helsingør SOK" for it.
+    clubs:
+      - name: FSK Orientering
+      - name: HSOK
+        printed: Helsingør SOK
+      - name: Køge OK
+      - name: OK Skærmen Hareskov
+    standing:
+      - { club: Køge OK, score: 372, against: 272, match_points: 6 }
+      - { club: HSOK, score: 276, against: 291, match_points: 4 }
+      - { club: FSK Orientering, score: 282, against: 301, match_points: 2 }
+      - { club: OK Skærmen Hareskov, score: 253, against: 319, match_points: 0 }
+    matches: [[89, 92], [95, 123], [98, 86], [90, 122], [94, 80], [127, 87]]
+
+  - name: Op/ned 5-6. division
+    official: official/5-6.txt
+    clubs:
+      - name: DSR/Fredensborg/Vinderød
+      - name: Kildeholm OK
+        printed: Kildeholm Orienteringsklub
+      - name: Lyngby OK
+      - name: O-63/Maribo
+    standing:
+      - { club: Kildeholm OK, score: 212, against: 176, match_points: 6 }
+      - { club: O-63/Maribo, score: 190, against: 187, match_points: 4 }
+      - { club: DSR/Fredensborg/Vinderød, score: 193, against: 186, match_points: 2 }
+      - { club: Lyngby OK, score: 151, against: 197, match_points: 0 }
+    matches: [[63, 71], [66, 50], [64, 65], [70, 49], [71, 64], [52, 61]]

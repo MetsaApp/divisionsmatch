@@ -1,0 +1,135 @@
+# yaml-language-server: $schema=../schema/rulebook.schema.json
+#
+# The 2025 rules for the Danish divisionsmatch.
+#
+# This file holds the rules as data. The program reads it and uses these
+# values for each calculation. The basis for these values is
+# "divisionsmatchberegning" by Anders Klinting.
+#
+# Dansk Orienterings-Forbund (DO-F) sets the rules. This file is the 2025
+# version of the rules and does not change. Change it only to correct a
+# value that does not agree with the 2025 rules. A new version of the rules
+# goes in a new file. The README tells you how.
+
+# The name of the rules version. A divisions file can select a version
+# with this name.
+version: "2025"
+name: Divisionsmatch 2025
+source: https://github.com/AndersKlinting/divisionsmatchberegning
+
+# The match points that a club gets for one match.
+match_points:
+  win: 2
+  draw: 1
+  loss: 0
+
+# The share of a scale that one club can score with. The scale of H21 has
+# 8 places. With 0.5, one club can score with 4 runners at most in H21.
+club_limit: 0.5
+
+# A walkover: one club in a match did not come to the competition. The
+# club that came gets the match points for a win. Its score is its own
+# score multiplied by this share. The club that did not come gets the
+# match points for a loss and a score of 0.
+walkover:
+  score_share: 0.5
+
+# The order of the tie-breaks for clubs with the same match points.
+#   mutual_score: the score that each club got in the matches between
+#                 these clubs.
+#   best_runners: the number of groups where the club has the best runner
+#                 among these clubs. If this is equal, the second best
+#                 runner, then the third best runner, and so on.
+tie_breaks:
+  - mutual_score
+  - best_runners
+
+# How the program finds the group of a class from the class name.
+# The program compares names without spaces, dashes and case, so
+# "H21-", "h 21" and "H21" are all H21.
+# A class name with one of these endings is the same group as the name
+# without the ending. With "A", the class "H21A" is in group H21.
+class_names:
+  same_group_suffixes: [A]
+
+# The groups, in the order of the printout: beginners first, then the
+# women's groups, then the men's groups.
+#   name:    the group name in the rules.
+#   scale:   the points for the scoring runners, in finish order.
+#   aliases: other class names for the same group.
+groups:
+  - name: Begynder
+    scale: [1, 1, 1, 1, 1, 1]
+    aliases: [Beg]
+  - name: D10
+    scale: [1, 1, 1, 1, 1, 1]
+  - name: D12
+    scale: [4, 3, 2, 1]
+  - name: D12B
+    scale: [1, 1, 1, 1, 1, 1]
+  - name: D14
+    scale: [4, 3, 2, 1]
+  - name: D14B
+    scale: [2, 2, 1, 1]
+  - name: D16
+    scale: [4, 3, 2, 1]
+  - name: D18
+    scale: [4, 3, 2, 1]
+  - name: D20
+    scale: [4, 3, 2, 1]
+  - name: D20B
+    scale: [2, 2, 1, 1]
+  - name: D21
+    scale: [8, 7, 6, 5, 4, 3, 2, 1]
+  - name: D21B
+    scale: [2, 2, 2, 1, 1, 1]
+  - name: D40
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: D45B
+    scale: [2, 2, 2, 1, 1, 1]
+  - name: D50
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: D60
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: D70
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: D80
+    scale: [4, 3, 2, 1]
+  - name: D-Let
+    scale: [2, 2, 2, 1, 1, 1]
+  - name: H10
+    scale: [1, 1, 1, 1, 1, 1]
+  - name: H12
+    scale: [4, 3, 2, 1]
+  - name: H12B
+    scale: [1, 1, 1, 1, 1, 1]
+  - name: H14
+    scale: [4, 3, 2, 1]
+  - name: H14B
+    scale: [2, 2, 1, 1]
+  - name: H16
+    scale: [4, 3, 2, 1]
+  - name: H18
+    scale: [4, 3, 2, 1]
+  - name: H20
+    scale: [4, 3, 2, 1]
+  - name: H20B
+    scale: [2, 2, 1, 1]
+  - name: H21
+    scale: [8, 7, 6, 5, 4, 3, 2, 1]
+  - name: H21B
+    scale: [2, 2, 2, 1, 1, 1]
+  - name: H40
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: H45B
+    scale: [2, 2, 2, 1, 1, 1]
+  - name: H50
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: H60
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: H70
+    scale: [6, 5, 4, 3, 2, 1]
+  - name: H80
+    scale: [4, 3, 2, 1]
+  - name: H-Let
+    scale: [2, 2, 2, 1, 1, 1]

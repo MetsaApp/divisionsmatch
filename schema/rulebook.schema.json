@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/MetsaApp/divisionsmatch/schema/rulebook.schema.json",
+  "title": "Divisionsmatch rulebook",
+  "description": "One version of the rules for the Danish divisionsmatch. The program reads this file and uses its values for each calculation.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "match_points", "club_limit", "walkover", "tie_breaks", "groups"],
+  "properties": {
+    "version": {
+      "description": "The name of the rules version, for example \"2025\". For a file in the rulebooks folder, the file name must be this name plus \".yml\".",
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "description": "A name for people to read.",
+      "type": "string"
+    },
+    "source": {
+      "description": "The basis for the values in this file, for example a web address.",
+      "type": "string"
+    },
+    "match_points": {
+      "description": "The match points that a club gets for one match.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["win", "draw", "loss"],
+      "properties": {
+        "win": { "description": "The match points for a win. Must be more than the points for a loss.", "type": "integer" },
+        "draw": { "description": "The match points for a draw. Must be from the loss points to the win points.", "type": "integer" },
+        "loss": { "description": "The match points for a loss.", "type": "integer" }
+      }
+    },
+    "club_limit": {
+      "description": "The share of a scale that one club can score with. With 0.5 and a scale of 8 places, one club can score with 4 runners at most.",
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "maximum": 1
+    },
+    "walkover": {
+      "description": "The rule for a match where one club did not come to the competition.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["score_share"],
+      "properties": {
+        "score_share": {
+          "description": "The club that came gets the match points for a win. Its score is its own score multiplied by this share.",
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "tie_breaks": {
+      "description": "The order of the tie-breaks for clubs with the same match points.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": ["mutual_score", "best_runners"],
+        "description": "mutual_score: the score in the matches between these clubs. best_runners: the number of groups where the club has the best runner among these clubs, then the second best runner, and so on."
+      }
+    },
+    "class_names": {
+      "description": "How the program finds the group of a class from the class name.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "same_group_suffixes": {
+          "description": "A class name with one of these endings is the same group as the name without the ending. With \"A\", the class \"H21A\" is in group H21.",
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "groups": {
+      "description": "The groups, in the order that a result shows them.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "scale"],
+        "properties": {
+          "name": { "description": "The group name in the rules, for example \"H21\".", "type": "string", "minLength": 1 },
+          "scale": {
+            "description": "The points for the scoring runners, in finish order. The first number is for the fastest scoring runner.",
+            "type": "array",
+            "minItems": 1,
+            "items": { "type": "integer", "minimum": 1 }
+          },
+          "aliases": {
+            "description": "Other class names for the same group, for example \"Beg\" for Begynder.",
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    }
+  }
+}

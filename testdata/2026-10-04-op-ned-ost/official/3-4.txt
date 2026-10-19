@@ -1,0 +1,395 @@
+side 1                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Stilling , Østkredsen, op/ned Op/ned 3-4. division
+--------------------------------------------------
+
+| Placering |           Klubnavn           | 1. runde | 1. runde | Stilling | Stilling | kommentar |
+|           |                              | LøbsPoint | MatchPoint | LøbsPoint | MatchPoint |           |
+----------------------------------------------------------------------------------------------------------
+|     1     | Herlufsholm OK               | 443 - 360 |     6      | 443 - 360 |     6      |           |
+|     2     | Orienteringsklubben Roskilde | 386 - 356 |     4      | 386 - 356 |     4      |           |
+|     3     | OK73 Gladsaxe                | 346 - 400 |     2      | 346 - 400 |     2      |           |
+|     4     | PI-København                 | 332 - 391 |     0      | 332 - 391 |     0      |           |
+
+                         ---ooo---
+
+
+Divisionsmatch (Ganløse Ore, 2026-10-04)
+----------------------------------------
+                                               score       point
+Herlufsholm OK                               443 -   360       6
+Orienteringsklubben Roskilde                 386 -   356       4
+OK73 Gladsaxe                                346 -   400       2
+PI-København                                 332 -   391       0
+
+1 : Herlufsholm OK - OK73 Gladsaxe                :   156 -    116
+2 : Herlufsholm OK - Orienteringsklubben Roskilde :   145 -    129
+3 : Herlufsholm OK - PI-København                 :   142 -    115
+4 : OK73 Gladsaxe - Orienteringsklubben Roskilde :    107 -    131
+5 : OK73 Gladsaxe - PI-København                  :   123 -    113
+6 : Orienteringsklubben Roskilde - PI-København   :   126 -    104
+
+
+          m1      m2      m3      m4      m5      m6
+        ------- ------- ------- ------- ------- -------
+Begynder 0-0      0-0     0-2     0-0     0-2     0-2
+D10       1-0     1-0     1-0     0-0     0-0     0-0
+D12       3-4     4-0     4-0     4-0     4-0     0-0
+D12B      0-0     0-0     0-0     0-0     0-0     0-0
+D14       0-0     0-0     0-0     0-0     0-0     0-0
+D14B      2-0     2-0     2-0     0-0     0-0     0-0
+D16       0-0     0-0     0-0     0-0     0-0     0-0
+D18       0-0     0-0     0-0     0-0     0-0     0-0
+D20       0-0     0-0     0-0     0-0     0-0     0-0
+D20B      0-0     0-0     0-0     0-0     0-0     0-0
+D21      21-0    18-8    18-8     0-8     0-8     7-8
+side 2                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+D21B      4-2     4-2     4-2     2-2     2-2     2-2
+D40      14-6    15-0    12-6    11-0     9-6     0-6
+D45B      6-3     6-2     5-2     5-3     5-2     4-2
+D50      14-6    14-4    12-6     9-6     9-6     5-6
+D60      14-7    14-6    10-10   11-9     9-11    7-11
+D70       5-10    4-14    6-0     6-14   11-0    15-0
+D80       0-7     0-4     0-0     5-4     7-0     4-0
+D-Let     3-5     3-4     4-4     4-4     5-4     4-4
+H10       1-0     1-0     1-0     0-0     0-0     0-0
+H12       7-2     5-4     7-0     3-4     4-0     4-0
+H12B      0-1     0-1     0-0     1-1     1-0     1-0
+H14       0-0     0-0     0-0     0-0     0-0     0-0
+H14B      2-0     2-0     2-0     0-0     0-0     0-0
+H16       0-0     0-0     0-0     0-0     0-0     0-0
+H18       0-0     0-0     0-0     0-0     0-0     0-0
+H20       0-0     0-0     0-0     0-0     0-0     0-0
+H20B      0-0     0-0     0-0     0-0     0-0     0-0
+H21      15-0    14-7     7-26    0-8     0-26    4-26
+H21B      2-2     2-4     2-4     2-4     2-4     3-4
+H40       6-15    9-11   12-6    10-10   13-5    11-4
+H45B      4-4     3-5     2-6     4-5     3-6     4-5
+H50      11-9     9-12   10-10    7-13    9-9    12-8
+H60      12-8     8-13   10-11    7-13    8-12   12-9
+H70       7-14    6-15    9-12    8-13   11-10   14-7
+H80       0-7     0-7     0-0     6-4     7-0     7-0
+H-Let     2-4     1-6     2-0     2-6     4-0     6-0
+Ialt:   156-116 145-129 142-115 107-131 123-113 126-104
+
+Begynder - [1, 1, 1, 1, 1, 1]
+-----------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 003                PI-København    Beg    01:02:31              1         1    1
+2 Runner 002               PI-København    Beg    01:05:04              1         1    1
+
+
+D10 - [1, 1, 1, 1, 1, 1]
+------------------------
+pl navn                   klub             klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 008              Herlufsholm OK   D10    00:20:51    1    1    1
+
+
+D12 - [4, 3, 2, 1]
+------------------
+pl navn                   klub             klasse    tid     m1   m2   m3   m4   m5   m6
+side 3                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+1   Runner 011               OK73 Gladsaxe    D12    00:39:09    4              4    4
+2   Runner 012               Herlufsholm OK   D12    00:55:00    3    4    4
+
+
+D14B - [2, 2, 1, 1]
+-------------------
+pl navn                   klub                klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 014              Herlufsholm OK      D14B   00:29:54    2    2    2
+
+
+D21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub           klasse    tid         m1   m2   m3   m4   m5   m6
+1 Runner 021               PI-København   D21    00:53:22                  8         8    8
+2 Runner 019              Orienteringsklu D21    01:18:24             8         8         7
+3 Runner 020               Herlufsholm OK D21    01:20:46        8    7    7
+4 Runner 022               Herlufsholm OK D21    01:29:17        7    6    6
+5 Runner 018               Herlufsholm OK D21    01:45:41        6    5    5
+   Runner 023             Herlufsholm OK D21       Fejlst
+
+
+D21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                   klub            klasse    tid         m1   m2   m3   m4   m5   m6
+1 Runner 035              Herlufsholm OK D21B    00:46:59        2    2    2
+2 Runner 034              OK73 Gladsaxe   D21B   00:56:14        2              2    2
+3 Runner 032              PI-København    D21B   01:03:39                  2         2    2
+4 Runner 033             Herlufsholm OK D21B     01:03:40        2    2    2
+5 Runner 036              Orienteringsklu D21B   01:08:58             2         2         2
+
+
+D40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                      klub             klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 042                 PI-København     D40    01:06:13              6         6    6
+2 Runner 045                 Herlufsholm OK   D40    01:21:51    6    6    5
+3 Runner 043                 Herlufsholm OK   D40    01:25:49    5    5    4
+4 Runner 044                 OK73 Gladsaxe    D40    01:28:33    4              6    5
+5 Runner 041                 Herlufsholm OK   D40    01:29:55    3    4    3
+6 Runner 046                 OK73 Gladsaxe    D40    02:05:41    2              5    4
+
+
+D45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+side 4                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 056               Herlufsholm OK D45B    01:00:11    2    2    2
+2 Runner 055               PI-København    D45B   01:00:59              2         2    2
+3 Runner 060               Herlufsholm OK D45B    01:05:03    2    2    2
+4 Runner 058               Herlufsholm OK D45B    01:08:59    2    2    1
+5 Runner 059               Orienteringsklu D45B   01:13:58         1         2         2
+6 Runner 057               OK73 Gladsaxe   D45B   01:15:47    1              2    2
+7 Runner 062               OK73 Gladsaxe   D45B   01:15:57    1              2    2
+8 Runner 061               Orienteringsklu D45B   01:18:34         1         1         2
+9 Runner 054               OK73 Gladsaxe   D45B   01:21:34    1              1    1
+
+
+D50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 075               PI-København    D50    00:46:43              6         6    6
+2 Runner 074               Herlufsholm OK D50     00:58:21    6    6    5
+3 Runner 070               Herlufsholm OK D50     01:00:55    5    5    4
+4 Runner 068               Orienteringsklu D50    01:06:36         4         6         5
+5 Runner 073               OK73 Gladsaxe   D50    01:19:11    4              5    5
+6 Runner 072               Herlufsholm OK D50     01:21:56    3    3    3
+7 Runner 071               OK73 Gladsaxe   D50    02:22:33    2              4    4
+   Runner 069              OK73 Gladsaxe   D50      Fejlst
+
+
+D60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 089               PI-København    D60    00:43:03              6         6    6
+2 Runner 092               Herlufsholm OK D60     00:53:33    6    6    5
+3 Runner 094               PI-København    D60    00:55:25              4         5    5
+4 Runner 090               Herlufsholm OK D60     00:57:23    5    5    3
+5 Runner 085               Orienteringsklu D60    01:14:25         4         6         4
+6 Runner 084               OK73 Gladsaxe   D60    01:15:42    4              5    4
+7 Runner 087               Herlufsholm OK D60     01:20:36    3    3    2
+8 Runner 088               OK73 Gladsaxe   D60    01:21:36    2              4    3
+9 Runner 091               Orienteringsklu D60    01:23:01         2         3         3
+10 Runner 083              Herlufsholm OK D60     01:25:53
+11 Runner 086              OK73 Gladsaxe   D60    01:26:47    1              2    2
+   Runner 093              Orienteringsklu D60      Fejlst
+
+
+D70 - [6, 5, 4, 3, 2, 1]
+------------------------
+side 5                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 102              Orienteringsklu D70    01:04:40          6         6         6
+2 Runner 100              Orienteringsklu D70    01:07:39          5         5         5
+3 Runner 105              OK73 Gladsaxe   D70    01:16:39     6              4    6
+4 Runner 101              Herlufsholm OK D70     01:21:47     5    4    6
+5 Runner 104              Orienteringsklu D70    01:22:22          3         3         4
+6 Runner 103              OK73 Gladsaxe   D70    02:17:06     4              2    5
+
+
+D80 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 119              Orienteringsklu D80    00:40:31          4         4         4
+2 Runner 118              OK73 Gladsaxe   D80    01:30:16     4              3    4
+3 Runner 120              OK73 Gladsaxe   D80    02:08:57     3              2    3
+
+
+D-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 132               Herlufsholm OK D-Let 00:26:52      2    2    2
+2 Runner 135               Orienteringsklu D-Let 00:29:19          2         2         2
+3 Runner 136             OK73 Gladsaxe     D-Let 00:31:42     2              2    2
+4 Runner 130               Orienteringsklu D-Let 00:42:28          2         2         2
+5 Runner 134               PI-København    D-Let 00:47:34               2         2    2
+6 Runner 131               OK73 Gladsaxe   D-Let 00:47:57     2              1    2
+7 Runner 129              OK73 Gladsaxe    D-Let 00:51:08     1              1    1
+8 Runner 133               Herlufsholm OK D-Let 00:55:15      1    1    2
+9 Runner 128               PI-København    D-Let 01:07:07               1         1    1
+10 Runner 127              PI-København    D-Let 01:08:17               1         1    1
+
+
+H10 - [1, 1, 1, 1, 1, 1]
+------------------------
+pl navn                   klub             klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 145              Herlufsholm OK   H10    00:19:32    1    1    1
+
+
+H12 - [4, 3, 2, 1]
+------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 151              Orienteringsklu H12    00:31:10          4         4         4
+2 Runner 153              Herlufsholm OK H12     00:32:55     4    3    4
+3 Runner 152              Herlufsholm OK H12     00:33:50     3    2    3
+side 6                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+4   Runner 150              Herlufsholm OK H12     00:45:43
+5   Runner 148              OK73 Gladsaxe   H12    06:46:06    2              3    4
+    Runner 149              Orienteringsklu H12      Fejlst
+
+
+H12B - [1, 1, 1, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 156                Orienteringsklu H12B   00:20:35         1         1         1
+2 Runner 157                OK73 Gladsaxe   H12B   00:23:08    1              1    1
+
+
+H14B - [2, 2, 1, 1]
+-------------------
+pl navn                   klub              klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 158              Herlufsholm OK    H14B   00:44:39    2    2    2
+   Runner 159             OK73 Gladsaxe     H14B     Fejlst
+
+
+H21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 161               PI-København    H21    00:56:55               8         8    8
+2 Runner 167               PI-København    H21    00:58:24               7         7    7
+3 Runner 165               PI-København    H21    01:01:59               6         6    6
+4 Runner 163               PI-København    H21    01:19:52               5         5    5
+5 Runner 166               Herlufsholm OK H21     01:23:36     8    8    4
+6 Runner 162               Orienteringsklu H21    01:28:37          7         8         4
+7 Runner 164               Herlufsholm OK H21     01:32:40     7    6    3
+
+
+H21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 185                Orienteringsklu H21B   00:43:05         2         2         2
+2 Runner 186                Herlufsholm OK H21B    00:56:32    2    2    2
+3 Runner 184                OK73 Gladsaxe   H21B   01:04:24    2              2    2
+4 Runner 183                PI-København    H21B   01:07:48              2         2    2
+5 Runner 189                PI-København    H21B   01:12:05              2         2    2
+6 Runner 187                Orienteringsklu H21B   01:13:15         2         2         1
+   Runner 188               OK73 Gladsaxe   H21B     Fejlst
+   Runner 182               OK73 Gladsaxe   H21B    Ej slut
+side 7                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+H40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 196                Orienteringsklu H40    00:54:27         6         6         6
+2 Runner 200                OK73 Gladsaxe   H40    01:01:08    6              5    6
+3 Runner 199                Orienteringsklu H40    01:06:36         5         4         5
+4 Runner 194                PI-København    H40    01:11:32              6         5    4
+5 Runner 202                OK73 Gladsaxe   H40    01:13:14    5              3    4
+6 Runner 193                OK73 Gladsaxe   H40    01:16:47    4              2    3
+7 Runner 197                Herlufsholm OK H40     01:23:26    3    4    5
+8 Runner 195                Herlufsholm OK H40     01:39:35    2    3    4
+9 Runner 203                Herlufsholm OK H40     01:47:40    1    2    3
+   Runner 201               PI-København    H40    Ej start
+   Runner 198               PI-København    H40      Fejlst
+
+
+H45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 222                Orienteringsklu H45B   00:53:44         2         2         2
+2 Runner 224                PI-København    H45B   01:05:43              2         2    2
+3 Runner 218                PI-København    H45B   01:13:28              2         2    2
+4 Runner 221                PI-København    H45B   01:19:42              2         2    1
+5 Runner 217                Orienteringsklu H45B   01:19:59         2         2         1
+6 Runner 220                OK73 Gladsaxe   H45B   01:21:05    2              2    1
+7 Runner 219                Herlufsholm OK H45B    01:22:53    2    2    1
+8 Runner 223                Herlufsholm OK H45B    01:26:59    2    1    1
+9 Runner 227                OK73 Gladsaxe   H45B   01:37:30    1              1    1
+10 Runner 226               Orienteringsklu H45B   01:41:02         1         1         1
+11 Runner 225               OK73 Gladsaxe   H45B   01:41:25    1              1    1
+
+
+H50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 243              PI-København    H50    00:52:03                6         6    6
+2 Runner 245              Herlufsholm OK H50     00:55:29      6    6    5
+3 Runner 248              Orienteringsklu H50    01:00:02           5         6         5
+4 Runner 239              Orienteringsklu H50    01:00:13           4         5         4
+5 Runner 247              OK73 Gladsaxe   H50    01:00:25      5              4    5
+6 Runner 241              OK73 Gladsaxe   H50    01:03:32      4              3    4
+7 Runner 244              Orienteringsklu H50    01:07:15           3         2         3
+8 Runner 246             PI-København     H50    01:09:29                4         3    2
+9 Runner 242              Herlufsholm OK H50     01:24:54      3    2    3
+side 8                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+10 Runner 249              Herlufsholm OK   H50   01:36:35    2    1    2
+   Runner 240              PI-København     H50     Fejlst
+
+
+H60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 264                Orienteringsklu H60    00:44:08         6         6         6
+2 Runner 270               OK73 Gladsaxe   H60    00:47:31    6              5    6
+3 Runner 269               Herlufsholm OK H60     00:49:23    5    5    6
+4 Runner 272               PI-København    H60    00:51:39              5         5    5
+5 Runner 267               Orienteringsklu H60    00:56:25         4         4         4
+6 Runner 268                PI-København    H60    00:58:31              4         4    3
+7 Runner 273               Orienteringsklu H60    01:01:03         3         3         2
+8 Runner 271               Herlufsholm OK H60     01:02:49    4    2    3
+9 Runner 263               PI-København    H60    01:10:14              2         3    1
+10 Runner 266              Herlufsholm OK H60     01:13:24    3    1    1
+11 Runner 262              Herlufsholm OK H60     01:36:09
+12 Runner 265              OK73 Gladsaxe   H60    01:47:00    2              2    2
+
+
+H70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                   klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 304              Orienteringsklu H70    00:45:50          6         6         6
+2 Runner 301              Orienteringsklu H70    00:49:26          5         5         5
+3 Runner 305              PI-København    H70    00:50:00               6         6    4
+4 Runner 300              OK73 Gladsaxe   H70    00:51:04     6              4    5
+5 Runner 296              OK73 Gladsaxe   H70    01:00:23     5              3    4
+6 Runner 297              Orienteringsklu H70    01:05:17          4         2         3
+7 Runner 298              PI-København    H70    01:09:56               5         3    2
+8 Runner 294              Herlufsholm OK H70     01:12:09     4    3    4
+9 Runner 307              OK73 Gladsaxe   H70    01:19:06     3              1    2
+10 Runner 293             Orienteringsklu H70    01:20:08
+11 Runner 306             Herlufsholm OK H70     01:27:32     2    2    3
+12 Runner 299             Herlufsholm OK H70     01:34:48     1    1    2
+13 Runner 303             Herlufsholm OK H70     01:35:11
+14 Runner 302             PI-København    H70    01:37:03               1         1    1
+15 Runner 295             Orienteringsklu H70    01:40:00
+16 Runner 292             PI-København    H70    02:15:41
+
+
+H80 - [4, 3, 2, 1]
+------------------
+side 9                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:35:28
+-------------------------------------------------------------------------------------------------------------------------
+
+pl navn                   klub            klasse    tid     m1    m2   m3   m4   m5   m6
+1 Runner 324              OK73 Gladsaxe   H80    01:01:24    4               4    4
+2 Runner 323              Orienteringsklu H80    01:05:53          4         3         4
+3 Runner 326              OK73 Gladsaxe   H80    01:09:44     3              2    3
+4 Runner 325              Orienteringsklu H80    01:32:56          3         1         3
+
+
+H-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid     m1    m2   m3   m4   m5   m6
+1 Runner 342               Orienteringsklu H-Let 00:37:03          2         2         2
+2 Runner 345             Orienteringsklu H-Let 00:37:17            2         2         2
+3 Runner 344               Orienteringsklu H-Let 00:37:45          2         2         2
+4 Runner 341               OK73 Gladsaxe   H-Let 00:39:36     2              1    2
+5 Runner 343                Herlufsholm OK H-Let 00:49:16      2    1    2
+6 Runner 340               OK73 Gladsaxe   H-Let 00:57:42     2              1    2
+   Runner 354              OK73 Gladsaxe   H-Let Ej start
+

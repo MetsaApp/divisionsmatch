@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# Actions pinned by major tag: Dependabot-friendly and readable, and every
+# action here is GitHub- or vendor-owned.
+jobs:
+  lint:
+    name: golangci-lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+      # Pinned to the version .golangci.yml is written against; a floating
+      # "latest" turns a linter release into a red main.
+      - uses: golangci/golangci-lint-action@v8
+        with:
+          version: v2.13.2
+          # Built from source with the Go version of go.mod: a release binary
+          # built with an older Go refuses a module that targets a newer one.
+          install-mode: goinstall
+
+  test:
+    name: Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+      - run: go build ./...
+      - run: go vet ./...
+      # The tests also read every rulebook in rulebooks/ and the golden
+      # race, so a rule change that breaks a known result fails here.
+      - run: go test ./...

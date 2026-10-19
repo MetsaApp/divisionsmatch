@@ -1,0 +1,326 @@
+side 1                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:33:35
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Stilling , Østkredsen, op/ned Op/ned 4-5. division
+--------------------------------------------------
+
+| Placering |      Klubnavn       | 1. runde | 1. runde | Stilling | Stilling | kommentar |
+|           |                     | LøbsPoint | MatchPoint | LøbsPoint | MatchPoint |           |
+-------------------------------------------------------------------------------------------------
+|     1     | Køge OK             | 372 - 272 |     6      | 372 - 272 |     6      |           |
+|     2     | Helsingør SOK       | 276 - 291 |     4      | 276 - 291 |     4      |           |
+|     3     | FSK Orientering     | 282 - 301 |     2      | 282 - 301 |     2      |           |
+|     4     | OK Skærmen Hareskov | 253 - 319 |     0      | 253 - 319 |     0      |           |
+
+                         ---ooo---
+
+
+Divisionsmatch (Ganløse Ore, 2026-10-04)
+----------------------------------------
+                                                score          point
+Køge OK                                       372 -   272          6
+Helsingør SOK                                 276 -   291          4
+FSK Orientering                               282 -   301          2
+OK Skærmen Hareskov                           253 -   319          0
+
+1 : FSK Orientering - Helsingør SOK       :       89 -    92
+2 : FSK Orientering - Køge OK             :       95 -   123
+3 : FSK Orientering - OK Skærmen Hareskov :       98 -    86
+4 : Helsingør SOK - Køge OK               :       90 -   122
+5 : Helsingør SOK - OK Skærmen Hareskov   :       94 -    80
+6 : Køge OK - OK Skærmen Hareskov         :      127 -    87
+
+
+         m1    m2     m3    m4     m5     m6
+        ----- ------ ----- ------ ----- ------
+Begynder 1-0   1-1    1-0   0-1    0-0    1-0
+D10      0-0   0-1    0-0   0-1    0-0    1-0
+D12      0-0   0-0    0-0   0-0    0-0    0-0
+D12B     0-0   0-0    0-0   0-0    0-0    0-0
+D14      0-0   0-4    0-0   0-4    0-0    4-0
+D14B     0-0   0-0    0-0   0-0    0-0    0-0
+D16      0-0   0-0    0-0   0-0    0-0    0-0
+D18      0-0   0-0    0-0   0-0    0-0    0-0
+D20      0-0   0-4    0-0   0-4    0-0    4-0
+D20B     0-0   0-0    0-0   0-0    0-0    0-0
+D21     13-8 15-0    13-8   8-0    8-7    0-8
+side 2                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:33:35
+-------------------------------------------------------------------------------------------------------------------------
+
+D21B     0-0   0-2    0-0   0-2    0-0    2-0
+D40      0-0   0-6    0-6   0-6    0-6    5-6
+D45B     2-2   2-2    2-0   2-2    2-0    2-0
+D50      0-0   0-6    0-6   0-6    0-6    6-5
+D60      0-11 0-6     0-6 11-4    11-4    6-5
+D70      7-11 7-11    9-9 10-8    11-7   11-7
+D80      2-7   4-0    2-7   7-0    7-3    0-7
+D-Let    4-2   3-5    4-2   1-6    2-2    5-2
+H10      0-0   0-0    0-0   0-0    0-0    0-0
+H12      0-0   0-4    0-0   0-4    0-0    4-0
+H12B     0-0   0-0    0-0   0-0    0-0    0-0
+H14      0-0   0-0    0-0   0-0    0-0    0-0
+H14B     0-0   0-0    0-0   0-0    0-0    0-0
+H16      0-0   0-0    0-0   0-0    0-0    0-0
+H18      0-0   0-0    0-0   0-0    0-0    0-0
+H20      0-0   0-4    0-0   0-4    0-0    4-0
+H20B     0-0   0-0    0-0   0-0    0-0    0-0
+H21     13-8   9-21 13-8    5-21   7-8   21-5
+H21B     2-2   2-0    2-0   2-0    2-0    0-0
+H40      6-5   6-12   6-5   5-13   5-6   13-5
+H45B     4-4   4-2    4-0   5-2    6-0    2-0
+H50      8-10 11-9   11-4 11-9    11-4   13-5
+H60     13-5 13-7    13-7   6-9    6-9    9-9
+H70      7-13 9-9     9-11 13-7   12-9    7-13
+H80      5-4   7-2    7-3   4-3    4-5    2-7
+H-Let    2-0   2-5    2-4   0-6    0-4    5-3
+Ialt:   89-92 95-123 98-86 90-122 94-80 127-87
+
+Begynder - [1, 1, 1, 1, 1, 1]
+-----------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 004               FSK Orientering Beg    00:33:32    1    1    1
+2 Runner 001               Køge OK         Beg    00:52:57         1         1         1
+
+
+D10 - [1, 1, 1, 1, 1, 1]
+------------------------
+pl navn                   klub             klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 010              Køge OK          D10    00:19:32         1         1         1
+
+
+D14 - [4, 3, 2, 1]
+------------------
+pl navn                   klub             klasse    tid     m1   m2   m3   m4   m5   m6
+side 3                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:33:35
+-------------------------------------------------------------------------------------------------------------------------
+
+1   Runner 013              Køge OK         D14      01:39:18         4         4         4
+
+
+D20 - [4, 3, 2, 1]
+------------------
+pl navn                     klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 017                Køge OK         D20    01:48:57           4         4         4
+
+
+D21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid        m1   m2   m3   m4   m5   m6
+1 Runner 027               Helsingør SOK   D21    01:26:14       8              8    8
+2 Runner 026              OK Skærmen Hare D21     01:36:24                 8         7    8
+3 Runner 025               FSK Orientering D21    01:43:08       7    8    7
+4 Runner 028               FSK Orientering D21    02:03:58       6    7    6
+   Runner 024              FSK Orientering D21      Fejlst
+
+
+D21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 037                Køge OK         D21B   01:10:30           2         2         2
+
+
+D40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 047                OK Skærmen Hare D40    02:04:54                6         6    6
+2 Runner 048                Køge OK         D40    02:13:57           6         6         5
+
+
+D45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 066                FSK Orientering D45B   01:06:26      2    2    2
+2 Runner 064                Køge OK         D45B   01:26:18           2         2         2
+3 Runner 065                Helsingør SOK   D45B   01:42:58      2              2    2
+   Runner 063               Helsingør SOK   D45B     Fejlst
+
+
+D50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse     tid      m1   m2   m3   m4   m5   m6
+side 4                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:33:35
+-------------------------------------------------------------------------------------------------------------------------
+
+1   Runner 076             Køge OK         D50    01:15:48         6         6         6
+2   Runner 077             OK Skærmen Hare D50    01:19:43              6         6    5
+
+
+D60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 096               Helsingør SOK   D60    00:45:50    6              6    6
+2 Runner 098               Helsingør SOK   D60    00:56:48    5              5    5
+3 Runner 097               Køge OK         D60    00:59:17         6         4         6
+4 Runner 099               OK Skærmen Hare D60    01:29:27              6         4    5
+   Runner 095              FSK Orientering D60      Fejlst
+
+
+D70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 109               Helsingør SOK   D70    00:52:09    6              6    6
+2 Runner 110               Køge OK         D70    01:05:14         6         5         6
+3 Runner 115               Helsingør SOK   D70    01:19:39    5              4    5
+4 Runner 114               Køge OK         D70    01:23:21         5         3         5
+5 Runner 111               OK Skærmen Hare D70    01:24:05              6         4    4
+6 Runner 112               FSK Orientering D70    01:28:04    4    4    5
+7 Runner 107               FSK Orientering D70    01:47:21    3    3    4
+8 Runner 108               OK Skærmen Hare D70    01:53:01              3         3    3
+   Runner 106              Køge OK         D70    Ej start
+   Runner 113              OK Skærmen Hare D70      Fejlst
+
+
+D80 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 123               Helsingør SOK   D80    01:11:43    4              4    4
+2 Runner 125               Helsingør SOK   D80    01:20:36    3              3    3
+3 Runner 124               OK Skærmen Hare D80    01:22:55              4         2    4
+4 Runner 122               OK Skærmen Hare D80    01:26:44              3         1    3
+5 Runner 121               FSK Orientering D80    01:29:46    2    4    2
+
+
+D-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 141               OK Skærmen Hare D-Let 00:40:20               2         2    2
+2 Runner 137               FSK Orientering D-Let 00:52:39     2    2    2
+side 5                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:33:35
+-------------------------------------------------------------------------------------------------------------------------
+
+3   Runner 142              Køge OK         D-Let   00:56:33         2         2         2
+4   Runner 139              Køge OK         D-Let   01:05:22         2         2         2
+5   Runner 138              Køge OK         D-Let   01:05:58         1         2         1
+6   Runner 140              Helsingør SOK   D-Let   01:23:22    2              1    2
+7   Runner 143              FSK Orientering D-Let   01:48:52    2    1    2
+
+
+H12 - [4, 3, 2, 1]
+------------------
+pl navn                     klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 154                Køge OK         H12    00:52:54          4         4         4
+
+
+H20 - [4, 3, 2, 1]
+------------------
+pl navn                     klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 160                Køge OK         H20    01:48:07          4         4         4
+
+
+H21 - [8, 7, 6, 5, 4, 3, 2, 1]
+------------------------------
+pl navn                    klub            klasse    tid       m1   m2   m3   m4   m5   m6
+1 Runner 171               Køge OK         H21    01:04:11           8         8         8
+2 Runner 168             Køge OK           H21    01:10:08           7         7         7
+3 Runner 173              Køge OK          H21    01:11:09           6         6         6
+4 Runner 169               OK Skærmen Hare H21    01:15:03                8         8    5
+5 Runner 170              Helsingør SOK    H21    01:24:28      8              5    7
+6 Runner 174               FSK Orientering H21    01:37:05      7    5    7
+7 Runner 172               FSK Orientering H21    01:41:49      6    4    6
+
+
+H21B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 192                FSK Orientering H21B   01:49:24     2    2    2
+2 Runner 190                Helsingør SOK   H21B   01:53:30     2              2    2
+   Runner 191               Køge OK         H21B     Fejlst
+
+
+H40 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid      m1   m2   m3   m4   m5   m6
+1 Runner 209                FSK Orientering H40    00:55:46     6    6    6
+2 Runner 204                Køge OK         H40    01:11:33          5         6         6
+side 6                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:33:35
+-------------------------------------------------------------------------------------------------------------------------
+
+3   Runner 205              OK Skærmen Hare H40    01:13:09              5         6    5
+4   Runner 207              Helsingør SOK   H40    01:25:51    5              5    5
+5   Runner 208              Køge OK         H40    01:26:52         4         4         4
+6   Runner 206              Køge OK         H40    01:43:15         3         3         3
+
+
+H45B - [2, 2, 2, 1, 1, 1]
+-------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 231                Helsingør SOK   H45B   01:21:11    2              2    2
+2 Runner 230                Køge OK         H45B   01:26:58         2         2         2
+3 Runner 232                FSK Orientering H45B   01:34:30    2    2    2
+4 Runner 228                FSK Orientering H45B   01:50:48    2    2    2
+5 Runner 233                Helsingør SOK   H45B   02:07:53    1              2    2
+6 Runner 229                Helsingør SOK   H45B   02:15:57    1              1    2
+   Runner 234               Køge OK         H45B     Fejlst
+
+
+H50 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 258                 Helsingør SOK   H50    00:44:38    6              6    6
+2 Runner 256                FSK Orientering H50    00:58:16    5    6    6
+3 Runner 250                Helsingør SOK   H50    01:07:09    4              5    5
+4 Runner 252                FSK Orientering H50    01:15:58    3    5    5
+5 Runner 257                Køge OK         H50    01:23:12         4         4         6
+6 Runner 255                OK Skærmen Hare H50    01:23:46              4         4    5
+7 Runner 254                Køge OK         H50    01:24:25         3         3         4
+8 Runner 251                Køge OK         H50    01:30:49         2         2         3
+   Runner 253               OK Skærmen Hare H50      Fejlst
+
+
+H60 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                     klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 280                FSK Orientering H60    00:47:03    6    6    6
+2 Runner 283                Helsingør SOK   H60    00:48:08    5              6    6
+3 Runner 275                OK Skærmen Hare H60    01:12:46              5         5    6
+4 Runner 284                FSK Orientering H60    01:20:43    4    5    4
+5 Runner 278                Køge OK         H60    01:20:44         4         5         5
+6 Runner 282                Køge OK         H60    01:22:25         3         4         4
+7 Runner 277                FSK Orientering H60    01:32:05    3    2    3
+8 Runner 279                OK Skærmen Hare H60    01:32:12              2         4    3
+   Runner 274               Helsingør SOK   H60    Ej start
+side 7                                                                     Divisionsmatch v2025.0.0 / 2026-10-04 14:33:35
+-------------------------------------------------------------------------------------------------------------------------
+
+   Runner 281              OK Skærmen Hare H60      Fejlst
+   Runner 276              Køge OK         H60     Ej slut
+
+
+H70 - [6, 5, 4, 3, 2, 1]
+------------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 314               Helsingør SOK   H70    00:44:43    6              6    6
+2 Runner 311               Helsingør SOK   H70    00:45:01    5              5    5
+3 Runner 318               FSK Orientering H70    00:50:13    4    6    6
+4 Runner 313               OK Skærmen Hare H70    00:56:21              5         4    6
+5 Runner 317               OK Skærmen Hare H70    00:58:11              4         3    5
+6 Runner 308               Køge OK         H70    01:06:25         5         4         4
+7 Runner 310                Køge OK         H70    01:12:15         4         3         3
+8 Runner 312               FSK Orientering H70    01:29:47    3    3    3
+9 Runner 315               OK Skærmen Hare H70    01:30:03              2         2    2
+10 Runner 309              Helsingør SOK   H70    01:38:49    2              2    1
+   Runner 316              Køge OK         H70    Ej start
+
+
+H80 - [4, 3, 2, 1]
+------------------
+pl navn                    klub            klasse    tid     m1   m2   m3   m4   m5   m6
+1 Runner 331               Helsingør SOK   H80    00:57:21    4              4    4
+2 Runner 327               FSK Orientering H80    01:05:31    3    4    4
+3 Runner 329               FSK Orientering H80    01:06:19    2    3    3
+4 Runner 332                OK Skærmen Hare H80    01:09:04              2         3    4
+5 Runner 330               OK Skærmen Hare H80    01:11:54              1         2    3
+6 Runner 328               Køge OK         H80    01:28:54         2         3         2
+
+
+H-Let - [2, 2, 2, 1, 1, 1]
+--------------------------
+pl navn                    klub            klasse   tid      m1   m2   m3   m4   m5   m6
+1 Runner 349               Køge OK         H-Let 00:45:42          2         2         2
+2 Runner 348               Køge OK         H-Let 00:56:14          2         2         2
+3 Runner 351               OK Skærmen Hare H-Let 00:59:15               2         2    2
+4 Runner 350               OK Skærmen Hare H-Let 01:04:17               2         2    1
+5 Runner 347               FSK Orientering H-Let 01:08:09     2    2    2
+6 Runner 346               Køge OK         H-Let 01:11:23          1         2         1
+
