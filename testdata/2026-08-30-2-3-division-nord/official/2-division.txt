@@ -1,0 +1,81 @@
+Stilling 2. division, Nordkredsen
+---------------------------------
+
+| Placering |         Klubnavn         | 1. runde | 1. runde | 2. runde | 2. runde | Stilling          | Stilling | kommentar |
+|           |                          | LøbsPoint | MatchPoint | LøbsPoint | MatchPoint | LøbsPoint | MatchPoint |             |
+---------------------------------------------------------------------------------------------------------------------------------
+|     1     | Aalborg Orienteringsklub     | 327 - 280 |     4      | 343 - 255 |     4      | 670 - 535 |     8     | (220)     |
+|     2     | OK Vendelboerne              | 295 - 319 |     2      | 359 - 270 |     6      | 654 - 589 |     8     | (208)     |
+|     3     | Mariager Fjord OK            | 390 - 264 |     6      | 225 - 327 |     0      | 615 - 591 |     6     |           |
+|     4     | Aarhus 1900 Orientering      | 202 - 351 |     0      | 246 - 321 |     2      | 448 - 672 |     2     |           |
+
+1. runde, 2026-05-10, Hesselholt
+                                                score       point
+Mariager Fjord OK                             390 -   264       6
+Aalborg Orienteringsklub                      327 -   280       4
+OK Vendelboerne                               295 -   319       2
+Aarhus 1900 Orientering                       202 -   351       0
+
+1 : Mariager Fjord OK - OK Vendelboerne                   :    135 -   95
+2 : Mariager Fjord OK - Aalborg Orienteringsklub          :    121 -  104
+3 : Mariager Fjord OK - Aarhus 1900 Orientering           :    134 -   65
+4 : OK Vendelboerne - Aalborg Orienteringsklub            :     96 -  110
+5 : OK Vendelboerne - Aarhus 1900 Orientering             :    104 -   74
+6 : Aalborg Orienteringsklub - Aarhus 1900 Orientering    :    113 -   63
+
+Divisionsmatch (Fejsø plantage, 2026-08-30)
+-------------------------------------------
+                                                score       point
+OK Vendelboerne                               359 -   270       6
+Aalborg Orienteringsklub                      343 -   255       4
+Aarhus 1900 Orientering                       246 -   321       2
+Mariager Fjord OK                             225 -   327       0
+
+1 : Mariager Fjord OK - OK Vendelboerne                   :     79 -  122
+2 : Mariager Fjord OK - Aalborg Orienteringsklub          :     66 -  117
+3 : Mariager Fjord OK - Aarhus 1900 Orientering           :     80 -   88
+4 : OK Vendelboerne - Aalborg Orienteringsklub            :    112 -  110
+5 : OK Vendelboerne - Aarhus 1900 Orientering             :    125 -   81
+6 : Aalborg Orienteringsklub - Aarhus 1900 Orientering    :    116 -   77
+
+Klasse oversigt
+
+          m1      m2      m3      m4      m5      m6      
+Begynder  0-0     0-0     0-0     0-0     0-0     0-0
+D10       0-1     0-0     0-0     1-0     1-0     0-0
+D12       0-0     0-0     0-0     0-0     0-0     0-0
+D12B      0-0     0-0     0-0     0-0     0-0     0-0
+D14       0-0     0-0     0-0     0-0     0-0     0-0
+D14B      0-0     0-0     0-0     0-0     0-0     0-0
+D16       0-0     0-0     0-0     0-0     0-0     0-0
+D18       0-0     0-0     0-0     0-0     0-0     0-0
+D20       0-4     0-0     0-0     4-0     4-0     0-0
+D20B      0-0     0-0     0-0     0-0     0-0     0-0
+D21       8-0     8-0     6-15    0-0     0-15    0-15
+D21B      0-0     0-0     0-2     0-0     0-2     0-2
+D40       0-11    0-6     0-6     10-5    10-5    6-5
+D45B      2-0     2-0     2-0     0-0     0-0     0-0
+D50       0-11    0-0     0-6     11-0    11-4    0-6
+D60       11-9    11-7    11-7    11-9    9-11    8-10
+D70       0-11    0-11    0-15    9-9     11-9    11-9
+D80       4-3     4-0     4-0     4-0     4-0     0-0
+D-Let     2-2     2-2     2-0     2-2     2-0     2-0
+H10       0-1     0-1     0-0     1-1     1-0     1-0
+H12       0-0     0-4     0-0     0-4     0-0     4-0
+H12B      0-1     0-0     0-0     1-0     1-0     0-0
+H14       0-0     0-4     0-0     0-4     0-0     4-0
+H14B      0-0     0-0     0-0     0-0     0-0     0-0
+H16       0-7     0-0     0-0     7-0     7-0     0-0
+H18       0-0     0-4     0-0     0-4     0-0     4-0
+H20       0-0     0-0     0-4     0-0     0-4     0-4
+H20B      0-0     0-0     0-0     0-0     0-0     0-0
+H21       0-21    0-21    0-15    14-19   16-14   17-13
+H21B      2-0     2-0     2-0     0-0     0-0     0-0
+H40       9-9     7-13    9-6     7-13    9-6     13-5
+H45B      4-0     4-0     4-0     0-0     0-0     0-0
+H50       7-11    5-15    9-6     8-12    10-5    14-4
+H60       14-4    6-15    12-6    3-15    5-6     14-4
+H70       14-7    13-7    15-0    10-10   15-0    11-0
+H80       2-7     2-7     4-0     7-3     7-0     7-0
+H-Let     0-2     0-0     0-0     2-0     2-0     0-0
+Ialt:     79-122  66-117  80-88   112-110 125-81  116-77

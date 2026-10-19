@@ -1,0 +1,73 @@
+# A golden race: a real competition and its official divisionsmatch result.
+# The test computes the result from results.xml and compares it with the
+# official printouts in the official folder.
+#
+# Race:  1., 2. og 3. division Nord, 1. runde
+# Date:  2026-05-10
+# Venue: Hesselholt
+#
+# The official printouts of this race are scanned PDF files. The files
+# in the official folder are a transcription by hand of their summary
+# pages: the season standing, the match blocks and the group-by-match
+# grid. They have no runner rows.
+#
+# All runner names are generic names ("Runner 001"). A runner has the same
+# generic name in results.xml and in the official folder. The test does
+# not read names.
+
+results: results.xml
+
+divisions:
+  - name: 1. division
+    official: official/1-division.txt
+    transcribed: true
+    clubs:
+      - name: Herning OK
+        printed: Herning Orienteringsklub
+      - name: Horsens OK
+        printed: Horsens Orienteringsklub
+      - name: OK Pan
+      - name: Silkeborg OK
+    standing:
+      - { club: Silkeborg OK, score: 633, against: 393, match_points: 6 }
+      - { club: Horsens OK, score: 619.5, against: 443.5, match_points: 4 }
+      - { club: OK Pan, score: 494.5, against: 484.5, match_points: 2 }
+      - { club: Herning OK, score: 228, against: 654, match_points: 0 }
+    matches: [[74, 244], [86, 181], [68, 229], [198.5, 165.5], [177, 204], [148, 200]]
+
+  - name: 2. division
+    official: official/2-division.txt
+    transcribed: true
+    clubs:
+      - name: Mariager Fjord OK
+      - name: OK Vendelboerne
+      - name: Aalborg OK
+        printed: Aalborg Orienteringsklub
+      - name: 1900 Orientering
+        printed: Aarhus 1900 Orientering
+    standing:
+      - { club: Mariager Fjord OK, score: 390, against: 264, match_points: 6 }
+      - { club: Aalborg OK, score: 327, against: 280, match_points: 4 }
+      - { club: OK Vendelboerne, score: 295, against: 319, match_points: 2 }
+      - { club: 1900 Orientering, score: 202, against: 351, match_points: 0 }
+    matches: [[135, 95], [121, 104], [134, 65], [96, 110], [104, 74], [113, 63]]
+
+  - name: 3. division
+    official: official/3-division.txt
+    transcribed: true
+    clubs:
+      - name: KaSki OK
+      - name: Nordvest OK
+      - name: Randers/Djurs OK
+      - name: RSOK
+        printed: Rold Skov OK
+      - name: Vestjysk Orienteringsklub
+      - name: Viborg OK
+    standing:
+      - { club: KaSki OK, score: 429, against: 189, match_points: 10 }
+      - { club: Viborg OK, score: 394, against: 188, match_points: 8 }
+      - { club: Nordvest OK, score: 224, against: 226, match_points: 6 }
+      - { club: Randers/Djurs OK, score: 212, against: 251, match_points: 4 }
+      - { club: RSOK, score: 94, against: 286, match_points: 2 }
+      - { club: Vestjysk Orienteringsklub, score: 80, against: 293, match_points: 0 }
+    matches: [[80, 43], [90, 36], [89, 19], [91, 16], [79, 75], [46, 40], [48, 19], [48, 16], [39, 71], [50, 19], [50, 16], [36, 80], [19, 16], [18, 83], [16, 85]]
