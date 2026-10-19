@@ -1,6 +1,6 @@
 module github.com/MetsaApp/divisionsmatch
 
-go 1.27
+go 1.26.0
 
 require (
 	github.com/MetsaApp/iofxml v1.0.0
