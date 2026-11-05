@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Runs scripts/check.sh before every push. GitHub Actions CI is off, so this
+# is the check a pull request gets. Enable with: git config core.hooksPath .githooks
+set -uo pipefail
+root=$(git rev-parse --show-toplevel)
+if ! "$root/scripts/check.sh" </dev/null; then
+  echo "" >&2
+  echo "pre-push: scripts/check.sh failed, so the push was stopped." >&2
+  echo "Fix the failure and push again. git push --no-verify skips this check." >&2
+  exit 1
+fi

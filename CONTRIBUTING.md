@@ -20,9 +20,9 @@ To correct an error:
 2. Change the value in the YAML file.
 3. In the pull request, give the section of the DO-F rules for the value.
 
-Each pull request runs the tests. A failed test shows that the change gives
-a different result for a known race. Then you must show which DO-F rule
-gives the new result.
+Run `scripts/check.sh` before you open the pull request. GitHub does not
+run the tests. A failed test shows that the change gives a different result
+for a known race. Then you must show which DO-F rule gives the new result.
 
 ## New races
 
@@ -31,11 +31,11 @@ tells you how to add one in "Add a race". Use generic runner names only.
 
 ## Code changes
 
-1. Run `go test ./...` before you open a pull request.
-2. Run `golangci-lint run` with the version in `.github/workflows/ci.yml`.
-3. Add a test for each change in the calculation.
-4. Calculate the expected numbers in a test by hand from the rules, not from the code.
-5. Write comments that tell why the code does a thing.
+1. Run `scripts/check.sh` before you open a pull request. It runs
+   golangci-lint, `go vet` and `go test ./...`. GitHub does not run them.
+2. Add a test for each change in the calculation.
+3. Calculate the expected numbers in a test by hand from the rules, not from the code.
+4. Write comments that tell why the code does a thing.
 
 Use only the Go standard library and `gopkg.in/yaml.v3` as dependencies.
 
