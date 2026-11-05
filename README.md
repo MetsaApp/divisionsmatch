@@ -139,7 +139,7 @@ to write Go.
 8. Copy `race.yml` from a golden race into the new folder.
 9. Change the divisions, clubs, standing and match scores to the values of the new race.
 10. If the race is round 2 or later, add the earlier rounds with `before`.
-11. Run `go test ./...`.
+11. Run `scripts/check.sh`.
 
 If an official PDF file is a scan without text, write the first pages by
 hand in the layout of `pdftotext`. Look at
@@ -206,9 +206,9 @@ Change an existing rulebook file only to correct an error: a value that
 does not agree with that version of the DO-F rules and so gives a wrong
 calculation. Give the section of the DO-F rules in the pull request.
 
-The tests run on each pull request. If a test fails, the change gives a
-different result for a known race. The pull request shows which numbers
-are different.
+Run `scripts/check.sh` before you open the pull request. GitHub does not
+run the tests. If a test fails, the change gives a different result for a
+known race. The test output shows which numbers are different.
 
 ## Use the module in Go
 
