@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/MetsaApp/divisionsmatch/compare/v1.1.0...v1.2.0) (2026-11-14)
+
+
+### Features
+
+* bound each match while runners are still out ([#7](https://github.com/MetsaApp/divisionsmatch/issues/7)) ([50b11dc](https://github.com/MetsaApp/divisionsmatch/commit/50b11dc50ef72d1e1b749d7657c2a4655a53fada))
+
 ## [1.1.0](https://github.com/MetsaApp/divisionsmatch/compare/v1.0.0...v1.1.0) (2026-10-19)
 
 
