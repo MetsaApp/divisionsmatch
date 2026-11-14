@@ -34,6 +34,7 @@ This document uses each of these words with one meaning only.
 | running group | Two or more runners who run together. Only the fastest of them can score. The names of these runners contain the name of the running group in square brackets, for example `[g1] Anna`. |
 | club limit | The highest number of runners from one club that can score in one group. |
 | tie-break | A rule that puts clubs with the same match points in order. |
+| decided | A match where the match points can no longer change, whatever the runners who are still out do. |
 
 ## How the calculation works
 
@@ -57,6 +58,23 @@ same match points, the program uses the tie-breaks in this order:
 
 1. **Mutual score**: the score of each club in the matches between these clubs only.
 2. **Best runners**: the number of groups where the club has the best runner among these clubs. If this is equal, the program counts the second best runners, then the third best runners, and so on.
+
+### While runners are still out
+
+During the race, a runner without a final result counts for nothing. Each
+match also has a best and a worst score that each club can still get:
+
+- A club's best score comes when all of its runners who are still out
+  finish ahead of everyone, and the other club's runners who are still out
+  do not finish.
+- A club's worst score is the other club's best case.
+
+A runner who finishes can only push the other club's runners down the
+scale. They never take points from their own club. So these two cases are
+the limits, and the program calculates them with the same steps as the
+real score. A match is decided when both cases give the same match points.
+The tests check this against every golden race, with results removed at
+random.
 
 A division has two or more rounds in a season. The season standing adds
 the match points and the scores of all rounds. For clubs with the same
