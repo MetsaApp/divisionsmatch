@@ -114,6 +114,28 @@ func testGoldenRace(t *testing.T, file string) {
 // list.
 func computeRace(t *testing.T, dir string, race goldenRace, rb *dm.Rulebook) dm.Result {
 	t.Helper()
+	res := rb.Compute(raceConfig(race), raceRunners(t, dir, race))
+	must(t, len(res.Divisions) == len(race.Divisions))
+	return res
+}
+
+// raceConfig is a golden race's divisions, the clubs under the result
+// list's names.
+func raceConfig(race goldenRace) dm.Config {
+	cfg := dm.Config{}
+	for _, g := range race.Divisions {
+		d := dm.Division{Name: g.Name}
+		for _, c := range g.Clubs {
+			d.Clubs = append(d.Clubs, c.Name)
+		}
+		cfg.Divisions = append(cfg.Divisions, d)
+	}
+	return cfg
+}
+
+// raceRunners reads a golden race's result list.
+func raceRunners(t *testing.T, dir string, race goldenRace) []dm.Runner {
+	t.Helper()
 	xmlFile, err := os.Open(filepath.Join(dir, race.Results))
 	if err != nil {
 		t.Fatal(err)
@@ -124,17 +146,7 @@ func computeRace(t *testing.T, dir string, race goldenRace, rb *dm.Rulebook) dm.
 		t.Fatal(err)
 	}
 	must(t, doc.ResultList != nil, "results is no ResultList: ", doc.Kind)
-	cfg := dm.Config{}
-	for _, g := range race.Divisions {
-		d := dm.Division{Name: g.Name}
-		for _, c := range g.Clubs {
-			d.Clubs = append(d.Clubs, c.Name)
-		}
-		cfg.Divisions = append(cfg.Divisions, d)
-	}
-	res := rb.Compute(cfg, runnersOf(doc.ResultList))
-	must(t, len(res.Divisions) == len(race.Divisions))
-	return res
+	return runnersOf(doc.ResultList)
 }
 
 // roundsBefore computes the division's earlier rounds from their golden

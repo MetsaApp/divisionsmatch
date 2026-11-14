@@ -40,6 +40,9 @@ type ClubStanding struct {
 	TiedScore  float64
 	Tied       bool
 	Placements []Placement
+	// Running is how many of the club's runners in the division's groups
+	// have no final result yet; an absent club has none.
+	Running int
 }
 
 // Placement is a count of groups a club held one place in among the clubs
@@ -58,6 +61,14 @@ type Match struct {
 	HomeAbsent, AwayAbsent bool
 	HomeScore, AwayScore   float64
 	HomePoints, AwayPoints int
+	// HomeBest and HomeWorst bound the score the home side can still end
+	// on, from the runners still out (see bounds), and the same for the
+	// away side. With nobody out they are the score.
+	HomeBest, HomeWorst float64
+	AwayBest, AwayWorst float64
+	// Decided is whether the match points stand whatever the runners still
+	// out do.
+	Decided bool
 }
 
 // Group is one rulebook group of the division: its scale, its rows in
@@ -111,7 +122,7 @@ func (rb *Rulebook) Compute(cfg Config, runners []Runner) Result {
 	groups := rb.groupRunners(cfg, runners)
 	var out Result
 	for _, d := range cfg.Divisions {
-		out.Divisions = append(out.Divisions, rb.newDivision(d, groups))
+		out.Divisions = append(out.Divisions, rb.withBounds(rb.newDivision(d, groups), d, groups))
 	}
 	return out
 }
